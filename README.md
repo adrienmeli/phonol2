@@ -1,2 +1,2 @@
 # phonol2
-Cours de phonologie anglaise en première année à Gustave Eiffel 
+Cours de phonologie anglaise en deuxième année à Gustave Eiffel 
