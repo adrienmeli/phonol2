@@ -32,7 +32,7 @@
 
 * Les transcriptions du *English Pronouncing Dictionary*  (@epd) sont aussi acceptées. 
 
-* [adrienmeli.xyz](htps://adrienmeli.xyz)
+* [adrienmeli.xyz](https://adrienmeli.xyz)
 
 
 
@@ -55,6 +55,8 @@ Les sons de l'anglais sont bien sûr moins nombreux que ceux de la liste établi
 Ces symboles sont supposés connus...
 
 
+
+### Exercices 
 
 
 \begin{longtable}{lll}
