@@ -1,10 +1,18 @@
-
- 
-# Bases de données
+# Lesson n°1
 
 
 
-##  Échéances 
+## Administration
+
+### Présentation
+
+* La phonétique (1CAE301) compte pour 50% de l'UE 101 au Semestre 1.
+
+* L'autre composante est "EXPRESSION. COMPREHENSION ORALE DISCOURS ET DOCUMENTS" (1LLE1POA) 
+
+
+
+### Échéances
 
 
 \begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
@@ -15,7 +23,5 @@
 13/12/2021 & Examen de fin de semestre (1h) & 85 days\\
 \bottomrule
 \end{longtable}
-
-
 
 
