@@ -34,6 +34,30 @@ fought & /1/ & /\textipa{fO:t}/\\
 jar & /1/ & /\textipa{dZA:}/\\
 \cellcolor{gray!6}{look} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{lUk}/}\\
 passes & /10/ & /\textipa{"pA:s.Iz}/\\
+\addlinespace
+\cellcolor{gray!6}{breakfast} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"brek.f@st}/}\\
+cereal & /100/ & /\textipa{"sI@r.i.@l}/\\
+\cellcolor{gray!6}{chocolate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tS6k.l@t}/}\\
+keyboard & /10/ & /\textipa{"ki:.bO:d}/\\
+\cellcolor{gray!6}{shampoo} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{S\ae m."pu:}/}\\
+\addlinespace
+bath & /1/ & /\textipa{bA:T}/\\
+\cellcolor{gray!6}{delicious} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."lIS.@s}/}\\
+horrible & /100/ & /\textipa{"h6r.@b.@l}/\\
+\cellcolor{gray!6}{magazine} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""m\ae g.@."zi:n}/}\\
+university & /20100/ & /\textipa{""ju:n.I."v3:s.@t.i}/\\
+\addlinespace
+\cellcolor{gray!6}{chair} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSe@}/}\\
+knife & /1/ & /\textipa{naIf}/\\
+\cellcolor{gray!6}{account} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."kaUnt}/}\\
+cushion & /10/ & /\textipa{"kUS.@n}/\\
+\cellcolor{gray!6}{curtain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k3:t.@n}/}\\
+\addlinespace
+strong & /1/ & /\textipa{str6N}/\\
+\cellcolor{gray!6}{locked} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l6k}/}\\
+written & /10/ & /\textipa{"rIt.@n}/\\
+\cellcolor{gray!6}{camera} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae m.@r.@}/}\\
+radio & /100/ & /\textipa{"reId.i.@U}/\\
 \bottomrule
 \end{longtable}
 
@@ -46,8 +70,9 @@ passes & /10/ & /\textipa{"pA:s.Iz}/\\
 \toprule
 Échéances & Description & Jours restants\\
 \midrule
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)} & \cellcolor{gray!6}{36 days}\\
-13/12/2021 & Examen de fin de semestre (1h) & 85 days\\
+\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Transcrire les mots suivants : “fought, shine, jar, look, passes“} & \cellcolor{gray!6}{7 days}\\
+25/10/2021 & Examen de mi-semestre (1h) & 35 days\\
+\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)} & \cellcolor{gray!6}{84 days}\\
 \bottomrule
 \end{longtable}
 
