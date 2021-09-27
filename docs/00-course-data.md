@@ -66,13 +66,14 @@ radio & /100/ & /\textipa{"reId.i.@U}/\\
 ##  Échéances 
 
 
-\begin{longtable}{l>{\raggedright\arraybackslash}p{10cm}l}
+\begin{longtable}{>{\raggedright\arraybackslash}p{3cm}>{\raggedright\arraybackslash}p{13cm}}
 \toprule
-Échéances & Description & Jours restants\\
+Échéances & Instructions\\
 \midrule
-\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Transcrire les mots suivants : “fought, shine, jar, look, passes“} & \cellcolor{gray!6}{7 days}\\
-25/10/2021 & Examen de mi-semestre (1h) & 35 days\\
-\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)} & \cellcolor{gray!6}{84 days}\\
+\cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Transcrire les mots suivants : “fought, shine, jar, look, passes“}\\
+04/10/2021 & Transcrivez les mots suivants. Quels sont ceux dont les voyelles ne respectent pas la règle orthographique ?\\
+\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
+13/12/2021 & Examen de fin de semestre (1h)\\
 \bottomrule
 \end{longtable}
 
