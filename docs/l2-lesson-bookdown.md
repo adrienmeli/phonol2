@@ -122,18 +122,6 @@ bath & /1/ & /\textipa{bA:T}/\\
 horrible & /100/ & /\textipa{"h6r.@b.@l}/\\
 \cellcolor{gray!6}{magazine} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""m\ae g.@."zi:n}/}\\
 university & /20100/ & /\textipa{""ju:n.I."v3:s.@t.i}/\\
-\addlinespace
-\cellcolor{gray!6}{chair} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tSe@}/}\\
-knife & /1/ & /\textipa{naIf}/\\
-\cellcolor{gray!6}{account} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."kaUnt}/}\\
-cushion & /10/ & /\textipa{"kUS.@n}/\\
-\cellcolor{gray!6}{curtain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k3:t.@n}/}\\
-\addlinespace
-strong & /1/ & /\textipa{str6N}/\\
-\cellcolor{gray!6}{locked} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l6k}/}\\
-written & /10/ & /\textipa{"rIt.@n}/\\
-\cellcolor{gray!6}{camera} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae m.@r.@}/}\\
-radio & /100/ & /\textipa{"reId.i.@U}/\\
 \bottomrule
 \end{longtable}
 
