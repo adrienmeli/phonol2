@@ -173,8 +173,10 @@ lucky & /10/ & /\textipa{"l2k.i}/\\
 \cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Transcrire les mots suivants : “fought, shine, jar, look, passes“}\\
 04/10/2021 & Transcrivez les mots suivants. Quels sont ceux dont les voyelles ne respectent pas la règle orthographique ?\\
 \cellcolor{gray!6}{11/10/2021} & \cellcolor{gray!6}{Find 5 words not mentioned in class featuring historically assimilated sound (hint: yod-coalescence). Find 5 sentences likely to feature assimilations in connected speed. Mention the direction of these potential assimilations.}\\
-25/10/2021 & Examen de mi-semestre (1h)\\
-\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
+11/10/2021 & Transcrire les listes de mots de la leçon n°3.\\
+\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
+\addlinespace
+13/12/2021 & Examen de fin de semestre (1h)\\
 \bottomrule
 \end{longtable}
 
