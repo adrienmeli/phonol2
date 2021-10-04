@@ -54,10 +54,110 @@ cushion & /10/ & /\textipa{"kUS.@n}/\\
 \cellcolor{gray!6}{curtain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k3:t.@n}/}\\
 \addlinespace
 strong & /1/ & /\textipa{str6N}/\\
-\cellcolor{gray!6}{locked} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l6k}/}\\
+\cellcolor{gray!6}{locked} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l6kt}/}\\
 written & /10/ & /\textipa{"rIt.@n}/\\
 \cellcolor{gray!6}{camera} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae m.@r.@}/}\\
 radio & /100/ & /\textipa{"reId.i.@U}/\\
+\addlinespace
+\cellcolor{gray!6}{very} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ver.i}/}\\
+thesis & /10/ & /\textipa{"Ti:s.Is}/\\
+\cellcolor{gray!6}{manage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae n.IdZ}/}\\
+over & /10/ & /\textipa{"@Uv.@}/\\
+\cellcolor{gray!6}{jumped} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZ2mpt}/}\\
+\addlinespace
+felt & /1/ & /\textipa{felt}/\\
+\cellcolor{gray!6}{come} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{k2m}/}\\
+back & /1/ & /\textipa{b\ae k}/\\
+\cellcolor{gray!6}{rare} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{re@}/}\\
+judge & /1/ & /\textipa{dZ2dZ}/\\
+\addlinespace
+\cellcolor{gray!6}{write} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{raIt}/}\\
+evolution & /2010/ & /\textipa{""i:v.@."lu:S.@n}/\\
+\cellcolor{gray!6}{dark} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dA:k}/}\\
+quack & /1/ & /\textipa{kw\ae k}/\\
+\cellcolor{gray!6}{gone} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{g6n}/}\\
+\addlinespace
+short & /1/ & /\textipa{SO:t}/\\
+\cellcolor{gray!6}{jerk} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZ3:k}/}\\
+head quarters & // & /\textipa{hed} \textipa{"kwO:t.@.stA:f}/\\
+\cellcolor{gray!6}{main course} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{meIn} \textipa{kO:s}/}\\
+matched pairs & // & /\textipa{m\ae tSt} \textipa{pe@z}/\\
+\addlinespace
+\cellcolor{gray!6}{perhaps} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{p@."h\ae ps}/}\\
+broadcast & /10/ & /\textipa{"brO:d.kA:st}/\\
+\cellcolor{gray!6}{white pepper} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{waIt} \textipa{"pep.@}/}\\
+on the house & // & /\textipa{6n} \textipa{Di:} \textipa{haUs}/\\
+\cellcolor{gray!6}{raise your glass} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{reIz} \textipa{jO:} \textipa{glA:s}/}\\
+\addlinespace
+age & /1/ & /\textipa{eIdZ}/\\
+\cellcolor{gray!6}{jinx} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZINks}/}\\
+shake & /1/ & /\textipa{SeIk}/\\
+\cellcolor{gray!6}{once} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w2ns}/}\\
+music & /10/ & /\textipa{"mju:z.Ik}/\\
+\addlinespace
+\cellcolor{gray!6}{ink} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{INk}/}\\
+lamb & /1/ & /\textipa{l\ae m}/\\
+\cellcolor{gray!6}{choke} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tS@Uk}/}\\
+shackle & /10/ & /\textipa{"S\ae k.@l}/\\
+\cellcolor{gray!6}{fern} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{f3:n}/}\\
+\addlinespace
+mustard & /10/ & /\textipa{"m2st.@d}/\\
+\cellcolor{gray!6}{purpose} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"p3:p.@s}/}\\
+shove & /1/ & /\textipa{S2v}/\\
+\cellcolor{gray!6}{shelf} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Self}/}\\
+thank & /1/ & /\textipa{T\ae Nk}/\\
+\addlinespace
+\cellcolor{gray!6}{knight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{naIt}/}\\
+sword & /1/ & /\textipa{sO:d}/\\
+\cellcolor{gray!6}{answer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"A:ns.@}/}\\
+this shape & // & /\textipa{DIs} \textipa{SeIp}/\\
+\cellcolor{gray!6}{these shoes} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{Di:z} \textipa{"Su:.SaIn}/}\\
+\addlinespace
+this unit & // & /\textipa{DIs} \textipa{"ju:n.It}/\\
+\cellcolor{gray!6}{unless you} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{@n."les} \textipa{ju:}/}\\
+as you see & // & /\textipa{\ae z} \textipa{ju:} \textipa{si:}/\\
+\cellcolor{gray!6}{let you out} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{let} \textipa{ju:} \textipa{aUt}/}\\
+would you try & // & /\textipa{wUd} \textipa{ju:} \textipa{traI}/\\
+\addlinespace
+\cellcolor{gray!6}{get your bags} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{get} \textipa{jO:} \textipa{"b\ae gz.fUl}/}\\
+import & /01/ & /\textipa{Im."pO:t}/\\
+\cellcolor{gray!6}{nature} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"neItS.@}/}\\
+soldier & /10/ & /\textipa{"s@UldZ.@}/\\
+\cellcolor{gray!6}{patient} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"peIS.@nt}/}\\
+\addlinespace
+nation & /10/ & /\textipa{"neIS.@n}/\\
+\cellcolor{gray!6}{pressure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"preS.@}/}\\
+measure & /10/ & /\textipa{"meZ.@}/\\
+\cellcolor{gray!6}{figure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"fIg.@}/}\\
+break & /1/ & /\textipa{breIk}/\\
+\addlinespace
+\cellcolor{gray!6}{vaccine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"v\ae ks.i:n}/}\\
+low & /1/ & /\textipa{l@U}/\\
+\cellcolor{gray!6}{throw} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Tr@U}/}\\
+land & /1/ & /\textipa{l\ae nd}/\\
+\cellcolor{gray!6}{foam} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{f@Um}/}\\
+\addlinespace
+spoon & /1/ & /\textipa{spu:n}/\\
+\cellcolor{gray!6}{healthy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"helT.i}/}\\
+ten men & // & /\textipa{ten} \textipa{men}/\\
+\cellcolor{gray!6}{fine grade} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{faIn} \textipa{greId}/}\\
+incredible & /0100/ & /\textipa{In."kred.@b.@l}/\\
+\addlinespace
+\cellcolor{gray!6}{red paint} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{red} \textipa{peInt}/}\\
+bad guys & // & /\textipa{b\ae d} NA/\\
+\cellcolor{gray!6}{eight boys} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{eIt} \textipa{"bOIz.@n.b@r.i}/}\\
+straight & /1/ & /\textipa{streIt}/\\
+\cellcolor{gray!6}{sustain} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."steIn}/}\\
+\addlinespace
+work & /1/ & /\textipa{w3:k}/\\
+\cellcolor{gray!6}{remind} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."maInd}/}\\
+damp & /1/ & /\textipa{d\ae mp}/\\
+\cellcolor{gray!6}{though} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{D@U}/}\\
+note & /1/ & /\textipa{n@Ut}/\\
+\addlinespace
+\cellcolor{gray!6}{scythe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{saID}/}\\
+lucky & /10/ & /\textipa{"l2k.i}/\\
+\cellcolor{gray!6}{wall} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{wO:l}/}\\
 \bottomrule
 \end{longtable}
 
@@ -72,8 +172,9 @@ radio & /100/ & /\textipa{"reId.i.@U}/\\
 \midrule
 \cellcolor{gray!6}{27/09/2021} & \cellcolor{gray!6}{Transcrire les mots suivants : “fought, shine, jar, look, passes“}\\
 04/10/2021 & Transcrivez les mots suivants. Quels sont ceux dont les voyelles ne respectent pas la règle orthographique ?\\
-\cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
-13/12/2021 & Examen de fin de semestre (1h)\\
+\cellcolor{gray!6}{11/10/2021} & \cellcolor{gray!6}{Find 5 words not mentioned in class featuring historically assimilated sound (hint: yod-coalescence). Find 5 sentences likely to feature assimilations in connected speed. Mention the direction of these potential assimilations.}\\
+25/10/2021 & Examen de mi-semestre (1h)\\
+\cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
 \bottomrule
 \end{longtable}
 

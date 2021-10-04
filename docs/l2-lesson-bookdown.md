@@ -54,13 +54,13 @@ Ce tableau est **\color[HTML]{f44336}fondamental \color{black}**.
 \centering
 \begin{tabular}{lllll}
 \toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{/\textipa{m\ae t}/} & \cellcolor{gray!6}{/\textipa{meIt}/} & \cellcolor{gray!6}{/\textipa{mA:}/} & \cellcolor{gray!6}{/\textipa{me@}/}\\
-<e> & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
-\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
-<o> & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
-\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{/\textipa{k2t}/} & \cellcolor{gray!6}{/\textipa{kju:t}/} & \cellcolor{gray!6}{/\textipa{p3:}/} & \cellcolor{gray!6}{/\textipa{pjU@}/}\\
+\cellcolor{gray!6}{/NA/} & \cellcolor{gray!6}{/\textipa{m\ae t}/} & \cellcolor{gray!6}{/\textipa{meIt}/} & \cellcolor{gray!6}{/\textipa{mA:}/} & \cellcolor{gray!6}{/\textipa{me@}/}\\
+/NA/ & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
+\cellcolor{gray!6}{/NA/} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
+/NA/ & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
+\cellcolor{gray!6}{/NA/} & \cellcolor{gray!6}{/\textipa{k2t}/} & \cellcolor{gray!6}{/\textipa{kju:t}/} & \cellcolor{gray!6}{/\textipa{p3:}/} & \cellcolor{gray!6}{/\textipa{pjU@}/}\\
 \addlinespace
-<u2> & /\textipa{pUt}/ &  &  & \\
+/NA/ & /\textipa{pUt}/ &  &  & \\
 \bottomrule
 \end{tabular}
 \end{table}
