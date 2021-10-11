@@ -158,6 +158,30 @@ note & /1/ & /\textipa{n@Ut}/\\
 \cellcolor{gray!6}{scythe} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{saID}/}\\
 lucky & /10/ & /\textipa{"l2k.i}/\\
 \cellcolor{gray!6}{wall} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{wO:l}/}\\
+Meant & /1/ & /\textipa{ment}/\\
+\cellcolor{gray!6}{Understood} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""2nd.@."stUd}/}\\
+\addlinespace
+accountable to the data & // & /\textipa{@."kaUnt.@b.@l} \textipa{tu:} \textipa{Di:} \textipa{"deIt.@}/\\
+\cellcolor{gray!6}{a cannibal to the data} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{eI} \textipa{"k\ae n.Ib.@l} \textipa{tu:} \textipa{Di:} \textipa{"deIt.@}/}\\
+she makes us slave & // & /\textipa{Si:} \textipa{"meIk.SIft} \textipa{2s} \textipa{sleIv}/\\
+\cellcolor{gray!6}{she makes us leave} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{Si:} \textipa{"meIk.SIft} \textipa{2s} \textipa{li:v}/}\\
+can I pour us both juice & // & /\textipa{k\ae n} \textipa{aI} \textipa{pO:} \textipa{2s} \textipa{b@UT} \textipa{dZu:s}/\\
+\addlinespace
+\cellcolor{gray!6}{can I pour a spoke juice} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{k\ae n} \textipa{aI} \textipa{pO:} \textipa{eI} \textipa{sp@Uk} \textipa{dZu:s}/}\\
+The bosses with the antennas. & // & /\textipa{Di:} NA \textipa{wID} \textipa{Di:} NA/\\
+\cellcolor{gray!6}{3} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
+This area is full of bets. & // & /\textipa{DIs} \textipa{"e@r.i.@} \textipa{Iz} \textipa{fUl} \textipa{6v} \textipa{"bets.i}/\\
+\cellcolor{gray!6}{1} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
+\addlinespace
+Do you have any pots in the house? & // & /\textipa{du:} \textipa{ju:} \textipa{h\ae v} \textipa{"en.i} \textipa{"p6ts.d\ae m} \textipa{In} \textipa{Di:} NA/\\
+\cellcolor{gray!6}{4} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
+We trucked across Wisconsin. & // & /\textipa{wi:} NA \textipa{@."kr6s} \textipa{wi."sk6ns.In}/\\
+\cellcolor{gray!6}{5} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
+Senior citizens living on the black. & // & /\textipa{"si:n.i.@} \textipa{"sIt.Iz.@n.SIp} \textipa{"lIv.IN} \textipa{6n} \textipa{Di:} \textipa{bl\ae k}/\\
+\addlinespace
+\cellcolor{gray!6}{2} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{\vphantom{1} /NA/}\\
+The Express Way is jammed salad. & // & /\textipa{Di:} \textipa{Ik."spres} \textipa{weI} \textipa{Iz} NA \textipa{"s\ae l.@d}/\\
+\cellcolor{gray!6}{2} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/NA/}\\
 \bottomrule
 \end{longtable}
 
@@ -177,6 +201,30 @@ lucky & /10/ & /\textipa{"l2k.i}/\\
 \cellcolor{gray!6}{25/10/2021} & \cellcolor{gray!6}{Examen de mi-semestre (1h)}\\
 \addlinespace
 13/12/2021 & Examen de fin de semestre (1h)\\
+\cellcolor{gray!6}{hurdle} & \cellcolor{gray!6}{}\\
+democrat & \\
+\cellcolor{gray!6}{country} & \cellcolor{gray!6}{}\\
+value & \\
+\addlinespace
+\cellcolor{gray!6}{normal} & \cellcolor{gray!6}{}\\
+wages & \\
+\cellcolor{gray!6}{capture} & \cellcolor{gray!6}{}\\
+changing & \\
+\cellcolor{gray!6}{narrow} & \cellcolor{gray!6}{}\\
+\addlinespace
+government & \\
+\cellcolor{gray!6}{sorry} & \cellcolor{gray!6}{}\\
+one & \\
+\cellcolor{gray!6}{science} & \cellcolor{gray!6}{}\\
+national & \\
+\addlinespace
+\cellcolor{gray!6}{structure} & \cellcolor{gray!6}{}\\
+building & \\
+\cellcolor{gray!6}{prosecution} & \cellcolor{gray!6}{}\\
+familiar & \\
+\cellcolor{gray!6}{jumper} & \cellcolor{gray!6}{}\\
+\addlinespace
+achievement & \\
 \bottomrule
 \end{longtable}
 
