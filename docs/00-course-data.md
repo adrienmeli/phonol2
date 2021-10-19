@@ -79,7 +79,7 @@ quack & /1/ & /\textipa{kw\ae k}/\\
 \addlinespace
 short & /1/ & /\textipa{SO:t}/\\
 \cellcolor{gray!6}{jerk} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{dZ3:k}/}\\
-head quarters & // & /\textipa{hed} \textipa{"kwO:t.@.stA:f}/\\
+head quarters & /210/ & /\textipa{hed} \textipa{"kwO:t.@z}/\\
 \cellcolor{gray!6}{main course} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{meIn} \textipa{kO:s}/}\\
 matched pairs & // & /\textipa{m\ae tSt} \textipa{pe@z}/\\
 \addlinespace
