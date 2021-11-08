@@ -144,7 +144,7 @@ ten men & // & /\textipa{ten} \textipa{men}/\\
 incredible & /0100/ & /\textipa{In."kred.@b.@l}/\\
 \addlinespace
 \cellcolor{gray!6}{red paint} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{red} \textipa{peInt}/}\\
-bad guys & // & /\textipa{b\ae d} NA/\\
+bad guys & // & /\textipa{b\ae d} \textipa{gaIz}/\\
 \cellcolor{gray!6}{eight boys} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{eIt} \textipa{"bOIz.@n.b@r.i}/}\\
 straight & /1/ & /\textipa{streIt}/\\
 \cellcolor{gray!6}{sustain} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."steIn}/}\\

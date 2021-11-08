@@ -123,45 +123,21 @@ In historical assimilation, the **citation form** features the assimilated sound
 #### Citation forms
 
 
- 
-\begin{longtable}{l}
-\toprule
-\textbf{\textbf{IPA}}\\
-\midrule
-\cellcolor{gray!6}{/\textipa{hed} \textipa{"kwO:t.@z}/}\\
-/\textipa{meIn} \textipa{kO:s}/\\
-\cellcolor{gray!6}{/\textipa{m\ae tSt} \textipa{pe@z}/}\\
-/\textipa{p@."h\ae ps}/\\
-\cellcolor{gray!6}{/\textipa{"brO:d.kA:st}/}\\
-\addlinespace
-/\textipa{waIt} \textipa{"pep.@}/\\
-\cellcolor{gray!6}{/\textipa{6n} \textipa{Di:} \textipa{haUs}/}\\
-/\textipa{reIz} \textipa{jO:} \textipa{glA:s}/\\
-\bottomrule
-\end{longtable} 
-
----
-
-
-
- 
 \begin{longtable}{ll}
 \toprule
-\textbf{\textbf{Word}} & \textbf{\textbf{IPA}}\\
+Word & IPA\\
 \midrule
-\cellcolor{gray!6}{head quarters} & \cellcolor{gray!6}{/\textipa{hed} \textipa{"kwO:t.@z}/}\\
-main course & /\textipa{meIn} \textipa{kO:s}/\\
-\cellcolor{gray!6}{matched pairs} & \cellcolor{gray!6}{/\textipa{m\ae tSt} \textipa{pe@z}/}\\
-perhaps & /\textipa{p@."h\ae ps}/\\
-\cellcolor{gray!6}{broadcast} & \cellcolor{gray!6}{/\textipa{"brO:d.kA:st}/}\\
+\cellcolor{gray!6}{/\textipa{hed} \textipa{"kwO:t.@z}/} & \cellcolor{gray!6}{head quarters}\\
+/\textipa{meIn} \textipa{kO:s}/ & main course\\
+\cellcolor{gray!6}{/\textipa{m\ae tSt} \textipa{pe@z}/} & \cellcolor{gray!6}{matched pairs}\\
+/\textipa{p@."h\ae ps}/ & perhaps\\
+\cellcolor{gray!6}{/\textipa{"brO:d.kA:st}/} & \cellcolor{gray!6}{broadcast}\\
 \addlinespace
-white pepper & /\textipa{waIt} \textipa{"pep.@}/\\
-\cellcolor{gray!6}{on the house} & \cellcolor{gray!6}{/\textipa{6n} \textipa{Di:} \textipa{haUs}/}\\
-raise your glass & /\textipa{reIz} \textipa{jO:} \textipa{glA:s}/\\
+/\textipa{waIt} \textipa{"pep.@}/ & white pepper\\
+\cellcolor{gray!6}{/\textipa{6n} \textipa{Di:} \textipa{haUs}/} & \cellcolor{gray!6}{on the house}\\
+/\textipa{reIz} \textipa{jO:} \textipa{glA:s}/ & raise your glass\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 #### Assimilation in connected speech
 
