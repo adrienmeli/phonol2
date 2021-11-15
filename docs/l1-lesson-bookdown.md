@@ -60,32 +60,35 @@ Ces symboles sont supposés connus...
 ### Exercice
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{watch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w6tS}/}\\
-chat & /1/ & /\textipa{tS\ae t}/\\
-\cellcolor{gray!6}{hate} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{heIt}/}\\
-body & /10/ & /\textipa{"b6d.i}/\\
-\cellcolor{gray!6}{these} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Di:z}/}\\
+\cellcolor{gray!6}{watch}\\
+chat\\
+\cellcolor{gray!6}{hate}\\
+body\\
+\cellcolor{gray!6}{these}\\
 \addlinespace
-window & /10/ & /\textipa{"wInd.@U}/\\
-\cellcolor{gray!6}{shared} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Se@d}/}\\
-pink & /1/ & /\textipa{pINk}/\\
-\cellcolor{gray!6}{mountain} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"maUnt.In}/}\\
-table & /10/ & /\textipa{"teIb.@l}/\\
+window\\
+\cellcolor{gray!6}{shared}\\
+pink\\
+\cellcolor{gray!6}{mountain}\\
+table\\
 \addlinespace
-\cellcolor{gray!6}{loves} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l2vz}/}\\
-push & /1/ & /\textipa{pUS}/\\
-\cellcolor{gray!6}{yummy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"j2m.i}/}\\
-thug & /1/ & /\textipa{T2g}/\\
-\cellcolor{gray!6}{swing} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{swIN}/}\\
+\cellcolor{gray!6}{loves}\\
+push\\
+\cellcolor{gray!6}{yummy}\\
+thug\\
+\cellcolor{gray!6}{swing}\\
 \addlinespace
-fought & /1/ & /\textipa{fO:t}/\\
-\cellcolor{gray!6}{shine} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SaIn}/}\\
-jar & /1/ & /\textipa{dZA:}/\\
-\cellcolor{gray!6}{look} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{lUk}/}\\
-passes & /10/ & /\textipa{"pA:s.Iz}/\\
+fought\\
+\cellcolor{gray!6}{shine}\\
+jar\\
+\cellcolor{gray!6}{look}\\
+passes\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---

@@ -6,82 +6,94 @@
 
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{sorry} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6r.i}/}\\
-one & /1/ & /\textipa{w2n}/\\
-\cellcolor{gray!6}{science} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"saI.@ns}/}\\
-national & /100/ & /\textipa{"n\ae S.@n.@l}/\\
-\cellcolor{gray!6}{structure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"str2k.tS@}/}\\
+\cellcolor{gray!6}{sorry}\\
+one\\
+\cellcolor{gray!6}{science}\\
+national\\
+\cellcolor{gray!6}{structure}\\
 \addlinespace
-building & /10/ & /\textipa{"bIld.IN}/\\
-\cellcolor{gray!6}{prosecution} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""pr6s.I."kju:S.@n}/}\\
-familiar & /0100/ & /\textipa{f@."mIl.i.@}/\\
-\cellcolor{gray!6}{jumper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ2mp.@}/}\\
-achievement & /010/ & /\textipa{@."tSi:v.m@nt}/\\
+building\\
+\cellcolor{gray!6}{prosecution}\\
+familiar\\
+\cellcolor{gray!6}{jumper}\\
+achievement\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{hurdle} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"h3:d.@l}/}\\
-democrat & /100/ & /\textipa{"dem.@.kr\ae t}/\\
-\cellcolor{gray!6}{country} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2ntr.i}/}\\
-value & /10/ & /\textipa{"v\ae l.ju:}/\\
-\cellcolor{gray!6}{normal} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"nO:m.@l}/}\\
+\cellcolor{gray!6}{hurdle}\\
+democrat\\
+\cellcolor{gray!6}{country}\\
+value\\
+\cellcolor{gray!6}{normal}\\
 \addlinespace
-wages & /10/ & /\textipa{"weIdZ.Iz}/\\
-\cellcolor{gray!6}{capture} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae p.tS@}/}\\
-changing & /10/ & /\textipa{"tSeIndZ.IN}/\\
-\cellcolor{gray!6}{narrow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@U}/}\\
-government & /100/ & /\textipa{"g2v.@n.m@nt}/\\
+wages\\
+\cellcolor{gray!6}{capture}\\
+changing\\
+\cellcolor{gray!6}{narrow}\\
+government\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ## Warm up
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{example} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{Ig."zA:mp.@l}/}\\
-frequency & /100/ & /\textipa{"fri:k.w@ns.i}/\\
-\cellcolor{gray!6}{closure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"kl@UZ.@}/}\\
-articulation & /02010/ & /\textipa{A:.""tIk.ju."leIS.@n}/\\
-\cellcolor{gray!6}{appropriate} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{@."pr@Up.ri.eIt}/}\\
+\cellcolor{gray!6}{example}\\
+frequency\\
+\cellcolor{gray!6}{closure}\\
+articulation\\
+\cellcolor{gray!6}{appropriate}\\
 \addlinespace
-regional & /100/ & /\textipa{"ri:dZ.@n.@l}/\\
-\cellcolor{gray!6}{accent} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae ks.@nt}/}\\
-century & /100/ & /\textipa{"sentS.@r.i}/\\
-\cellcolor{gray!6}{provide} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{pr@."vaId}/}\\
-artificial & /2010/ & /\textipa{""A:t.I."fIS.@l}/\\
+regional\\
+\cellcolor{gray!6}{accent}\\
+century\\
+\cellcolor{gray!6}{provide}\\
+artificial\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{threaten} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"Tret.@n}/}\\
-approval & /010/ & /\textipa{@."pru:v.@l}/\\
-\cellcolor{gray!6}{company} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k2mp.@n.i}/}\\
-footage & /10/ & /\textipa{"fUt.IdZ}/\\
-\cellcolor{gray!6}{journey} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZ3:n.i}/}\\
+\cellcolor{gray!6}{threaten}\\
+approval\\
+\cellcolor{gray!6}{company}\\
+footage\\
+\cellcolor{gray!6}{journey}\\
 \addlinespace
-union & /100/ & /\textipa{"ju:n.i.@n}/\\
-\cellcolor{gray!6}{popular} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"p6p.jUl.@}/}\\
-growth & /1/ & /\textipa{gr@UT}/\\
-\cellcolor{gray!6}{country} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2ntr.i}/}\\
-promise & /10/ & /\textipa{"pr6m.Is}/\\
+union\\
+\cellcolor{gray!6}{popular}\\
+growth\\
+\cellcolor{gray!6}{country}\\
+promise\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
  
 ## Introduction to assimilation
 
@@ -96,21 +108,24 @@ It is a result of **phonetic conditioning**. Phonetic conditioning is a term use
 ### Historical assimilation
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{import} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."pO:t}/}\\
-nature & /10/ & /\textipa{"neItS.@}/\\
-\cellcolor{gray!6}{soldier} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s@UldZ.@}/}\\
-delicious & /010/ & /\textipa{di."lIS.@s}/\\
-\cellcolor{gray!6}{patient} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"peIS.@nt}/}\\
+\cellcolor{gray!6}{import}\\
+nature\\
+\cellcolor{gray!6}{soldier}\\
+delicious\\
+\cellcolor{gray!6}{patient}\\
 \addlinespace
-nation & /10/ & /\textipa{"neIS.@n}/\\
-\cellcolor{gray!6}{pressure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"preS.@}/}\\
-measure & /10/ & /\textipa{"meZ.@}/\\
+nation\\
+\cellcolor{gray!6}{pressure}\\
+measure\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 These words feature instances where /j/ was **coalesced** to /\textipa{S}/ a few centuries ago. In terms of place of articulation, /\textipa{S}/ as a post-alveolar fricative is half-way between alveolar fricative /\textipa{s}/ and palatal approximant /\textipa{j}/. Both segments saw their place of articulation shift under their reciprocal influence.
 
@@ -123,19 +138,19 @@ In historical assimilation, the **citation form** features the assimilated sound
 #### Citation forms
 
 
-\begin{longtable}{ll}
+\begin{longtable}{l}
 \toprule
-Word & IPA\\
+IPA\\
 \midrule
-\cellcolor{gray!6}{/\textipa{hed} \textipa{"kwO:t.@z}/} & \cellcolor{gray!6}{head quarters}\\
-/\textipa{meIn} \textipa{kO:s}/ & main course\\
-\cellcolor{gray!6}{/\textipa{m\ae tSt} \textipa{pe@z}/} & \cellcolor{gray!6}{matched pairs}\\
-/\textipa{p@."h\ae ps}/ & perhaps\\
-\cellcolor{gray!6}{/\textipa{"brO:d.kA:st}/} & \cellcolor{gray!6}{broadcast}\\
+\cellcolor{gray!6}{/\textipa{hed} \textipa{"kwO:t.@z}/}\\
+/\textipa{meIn} \textipa{kO:s}/\\
+\cellcolor{gray!6}{/\textipa{m\ae tSt} \textipa{pe@z}/}\\
+/\textipa{p@."h\ae ps}/\\
+\cellcolor{gray!6}{/\textipa{"brO:d.kA:st}/}\\
 \addlinespace
-/\textipa{waIt} \textipa{"pep.@}/ & white pepper\\
-\cellcolor{gray!6}{/\textipa{6n} \textipa{Di:} \textipa{haUs}/} & \cellcolor{gray!6}{on the house}\\
-/\textipa{reIz} \textipa{jO:} \textipa{glA:s}/ & raise your glass\\
+/\textipa{waIt} \textipa{"pep.@}/\\
+\cellcolor{gray!6}{/\textipa{6n} \textipa{Di:} \textipa{haUs}/}\\
+/\textipa{reIz} \textipa{jO:} \textipa{glA:s}/\\
 \bottomrule
 \end{longtable}
 

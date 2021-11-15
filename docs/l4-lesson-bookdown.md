@@ -6,60 +6,71 @@
 ## Homework
 
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{age} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{eIdZ}/}\\
-jinx & /1/ & /\textipa{dZINks}/\\
-\cellcolor{gray!6}{shake} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SeIk}/}\\
-chair & /1/ & /\textipa{tSe@}/\\
-\cellcolor{gray!6}{once} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w2ns}/}\\
+\cellcolor{gray!6}{age}\\
+jinx\\
+\cellcolor{gray!6}{shake}\\
+chair\\
+\cellcolor{gray!6}{once}\\
 \addlinespace
-music & /10/ & /\textipa{"mju:z.Ik}/\\
-\cellcolor{gray!6}{ink} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{INk}/}\\
-lamb & /1/ & /\textipa{l\ae m}/\\
-\cellcolor{gray!6}{choke} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tS@Uk}/}\\
+music\\
+\cellcolor{gray!6}{ink}\\
+lamb\\
+\cellcolor{gray!6}{choke}\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
-\begin{longtable}{lll}
+
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
-sustain & /01/ & /\textipa{s@."steIn}/\\
-\cellcolor{gray!6}{work} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w3:k}/}\\
-remind & /01/ & /\textipa{ri."maInd}/\\
-\cellcolor{gray!6}{damp} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{d\ae mp}/}\\
+\cellcolor{gray!6}{straight}\\
+sustain\\
+\cellcolor{gray!6}{work}\\
+remind\\
+\cellcolor{gray!6}{damp}\\
 \addlinespace
-though & /1/ & /\textipa{D@U}/\\
-\cellcolor{gray!6}{note} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{n@Ut}/}\\
-scythe & /1/ & /\textipa{saID}/\\
-\cellcolor{gray!6}{lucky} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"l2k.i}/}\\
-wall & /1/ & /\textipa{wO:l}/\\
+though\\
+\cellcolor{gray!6}{note}\\
+scythe\\
+\cellcolor{gray!6}{lucky}\\
+wall\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
-\begin{longtable}{lll}
+
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{these} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Di:z}/}\\
-figure & /10/ & /\textipa{"fIg.@}/\\
-\cellcolor{gray!6}{break} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{breIk}/}\\
-vaccine & /10/ & /\textipa{"v\ae ks.i:n}/\\
-\cellcolor{gray!6}{low} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l@U}/}\\
+\cellcolor{gray!6}{these}\\
+figure\\
+\cellcolor{gray!6}{break}\\
+vaccine\\
+\cellcolor{gray!6}{low}\\
 \addlinespace
-throw & /1/ & /\textipa{Tr@U}/\\
-\cellcolor{gray!6}{land} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l\ae nd}/}\\
-foam & /1/ & /\textipa{f@Um}/\\
-\cellcolor{gray!6}{spoon} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{spu:n}/}\\
-healthy & /10/ & /\textipa{"helT.i}/\\
+throw\\
+\cellcolor{gray!6}{land}\\
+foam\\
+\cellcolor{gray!6}{spoon}\\
+healthy\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 ## /\textipa{\ae }/ in American
 
@@ -220,7 +231,7 @@ Il manque une voyelle... Laquelle ?
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{sorry}\\
 one\\
@@ -242,7 +253,7 @@ achievement\\
  
 \begin{longtable}{l}
 \toprule
-\textbf{\textbf{Homework}}\\
+\textbf{\textbf{Words}}\\
 \midrule
 \cellcolor{gray!6}{hurdle}\\
 democrat\\

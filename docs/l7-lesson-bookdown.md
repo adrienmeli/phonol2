@@ -86,7 +86,7 @@ In English, EA:
 * is rare in stressed syllables, *cf*:
   - "*have to*", "*used to*", where EA has now become compulsory.
 
-### Homework
+## Homework
 
 Identify the connected speech assimilations likely to occur in the following sequences: 
 
@@ -96,10 +96,9 @@ Identify the connected speech assimilations likely to occur in the following seq
 \cellcolor{gray!6}{it was spectacular}\\
 of course\\
 \cellcolor{gray!6}{if she chooses to wait}\\
-the waiter's forgotten us\\
+the waiter’s forgotten us\\
 \cellcolor{gray!6}{Helen could have talked to him}\\
 \addlinespace
 as she sometimes did\\
-\cellcolor{gray!6}{if you don't mind}\\
 \bottomrule
 \end{longtable}

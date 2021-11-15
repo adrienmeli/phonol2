@@ -107,23 +107,26 @@ Quelle(s) voyelle(s) ce tableau ne présente-t-il pas ?
 ### Exercice
  
 
-\begin{longtable}{lll}
+ 
+\begin{longtable}{l}
 \toprule
-Word & Stress & Received Pronunciation\\
+\textbf{\textbf{Words}}\\
 \midrule
-\cellcolor{gray!6}{breakfast} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"brek.f@st}/}\\
-cereal & /100/ & /\textipa{"sI@r.i.@l}/\\
-\cellcolor{gray!6}{chocolate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tS6k.l@t}/}\\
-keyboard & /10/ & /\textipa{"ki:.bO:d}/\\
-\cellcolor{gray!6}{shampoo} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{S\ae m."pu:}/}\\
+\cellcolor{gray!6}{breakfast}\\
+cereal\\
+\cellcolor{gray!6}{chocolate}\\
+keyboard\\
+\cellcolor{gray!6}{shampoo}\\
 \addlinespace
-bath & /1/ & /\textipa{bA:T}/\\
-\cellcolor{gray!6}{delicious} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."lIS.@s}/}\\
-horrible & /100/ & /\textipa{"h6r.@b.@l}/\\
-\cellcolor{gray!6}{magazine} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""m\ae g.@."zi:n}/}\\
-university & /20100/ & /\textipa{""ju:n.I."v3:s.@t.i}/\\
+bath\\
+\cellcolor{gray!6}{delicious}\\
+horrible\\
+\cellcolor{gray!6}{magazine}\\
+university\\
 \bottomrule
-\end{longtable}
+\end{longtable} 
+
+---
 
 
 
