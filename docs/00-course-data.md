@@ -208,30 +208,6 @@ NULL
 \addlinespace
 22/11/2021 & Faire le travail de la leçon n°8\\
 \cellcolor{gray!6}{13/12/2021} & \cellcolor{gray!6}{Examen de fin de semestre (1h)}\\
-hurdle & \\
-\cellcolor{gray!6}{democrat} & \cellcolor{gray!6}{}\\
-country & \\
-\addlinespace
-\cellcolor{gray!6}{value} & \cellcolor{gray!6}{}\\
-normal & \\
-\cellcolor{gray!6}{wages} & \cellcolor{gray!6}{}\\
-capture & \\
-\cellcolor{gray!6}{changing} & \cellcolor{gray!6}{}\\
-\addlinespace
-narrow & \\
-\cellcolor{gray!6}{government} & \cellcolor{gray!6}{}\\
-sorry & \\
-\cellcolor{gray!6}{one} & \cellcolor{gray!6}{}\\
-science & \\
-\addlinespace
-\cellcolor{gray!6}{national} & \cellcolor{gray!6}{}\\
-structure & \\
-\cellcolor{gray!6}{building} & \cellcolor{gray!6}{}\\
-prosecution & \\
-\cellcolor{gray!6}{familiar} & \cellcolor{gray!6}{}\\
-\addlinespace
-jumper & \\
-\cellcolor{gray!6}{achievement} & \cellcolor{gray!6}{}\\
 \bottomrule
 \end{longtable}
 
