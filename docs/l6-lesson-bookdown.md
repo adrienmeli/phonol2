@@ -5,6 +5,10 @@
 
 
 
+## Homework
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -21,6 +25,9 @@ bad guys\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

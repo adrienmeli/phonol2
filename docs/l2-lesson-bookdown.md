@@ -106,6 +106,9 @@ Quelle(s) voyelle(s) ce tableau ne présente-t-il pas ?
 
 ### Exercice
  
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}

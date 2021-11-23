@@ -174,6 +174,9 @@ IPA\\
 \bottomrule
 \end{longtable}
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -195,6 +198,9 @@ influential\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

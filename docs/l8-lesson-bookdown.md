@@ -178,6 +178,9 @@ Transcribe the following words.
 
 Can you infer a rule regarding the suffixes and the stress patterns?
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -199,6 +202,9 @@ abolish\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

@@ -59,6 +59,9 @@ Ces symboles sont supposés connus...
 
 ### Exercice
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}

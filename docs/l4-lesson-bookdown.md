@@ -3,74 +3,63 @@
 
 
 
-## Homework
+## Correction
 
 
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{age}\\
-jinx\\
-\cellcolor{gray!6}{shake}\\
-chair\\
-\cellcolor{gray!6}{once}\\
+\cellcolor{gray!6}{age} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{eIdZ}/}\\
+jinx & /1/ & /\textipa{dZINks}/\\
+\cellcolor{gray!6}{shake} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SeIk}/}\\
+chair & /1/ & /\textipa{tSe@}/\\
+\cellcolor{gray!6}{once} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w2ns}/}\\
 \addlinespace
-music\\
-\cellcolor{gray!6}{ink}\\
-lamb\\
-\cellcolor{gray!6}{choke}\\
+music & /10/ & /\textipa{"mju:z.Ik}/\\
+\cellcolor{gray!6}{ink} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{INk}/}\\
+lamb & /1/ & /\textipa{l\ae m}/\\
+\cellcolor{gray!6}{choke} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{tS@Uk}/}\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{straight}\\
-sustain\\
-\cellcolor{gray!6}{work}\\
-remind\\
-\cellcolor{gray!6}{damp}\\
+\cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
+sustain & /01/ & /\textipa{s@."steIn}/\\
+\cellcolor{gray!6}{work} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w3:k}/}\\
+remind & /01/ & /\textipa{ri."maInd}/\\
+\cellcolor{gray!6}{damp} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{d\ae mp}/}\\
 \addlinespace
-though\\
-\cellcolor{gray!6}{note}\\
-scythe\\
-\cellcolor{gray!6}{lucky}\\
-wall\\
+though & /1/ & /\textipa{D@U}/\\
+\cellcolor{gray!6}{note} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{n@Ut}/}\\
+scythe & /1/ & /\textipa{saID}/\\
+\cellcolor{gray!6}{lucky} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"l2k.i}/}\\
+wall & /1/ & /\textipa{wO:l}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 
-
- 
-\begin{longtable}{l}
+\begin{longtable}{lll}
 \toprule
-\textbf{\textbf{Words}}\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{these}\\
-figure\\
-\cellcolor{gray!6}{break}\\
-vaccine\\
-\cellcolor{gray!6}{low}\\
+\cellcolor{gray!6}{these} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Di:z}/}\\
+figure & /10/ & /\textipa{"fIg.@}/\\
+\cellcolor{gray!6}{break} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{breIk}/}\\
+vaccine & /10/ & /\textipa{"v\ae ks.i:n}/\\
+\cellcolor{gray!6}{low} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l@U}/}\\
 \addlinespace
-throw\\
-\cellcolor{gray!6}{land}\\
-foam\\
-\cellcolor{gray!6}{spoon}\\
-healthy\\
+throw & /1/ & /\textipa{Tr@U}/\\
+\cellcolor{gray!6}{land} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{l\ae nd}/}\\
+foam & /1/ & /\textipa{f@Um}/\\
+\cellcolor{gray!6}{spoon} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{spu:n}/}\\
+healthy & /10/ & /\textipa{"helT.i}/\\
 \bottomrule
-\end{longtable} 
-
----
+\end{longtable}
 
 ## /\textipa{\ae }/ in American
 
@@ -225,7 +214,10 @@ Il manque une voyelle... Laquelle ?
 
 
 
-## Interlude
+## Homework
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -248,6 +240,9 @@ achievement\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  

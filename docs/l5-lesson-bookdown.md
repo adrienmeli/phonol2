@@ -5,6 +5,9 @@
 ## Correction
 
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -26,6 +29,9 @@ achievement\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -51,6 +57,9 @@ government\\
 
 ## Warm up
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -72,6 +81,9 @@ artificial\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
+
 
 
  
@@ -106,6 +118,9 @@ It is a result of **phonetic conditioning**. Phonetic conditioning is a term use
 
 
 ### Historical assimilation
+
+Listen to the following words and transcribe them:
+
 
 
  

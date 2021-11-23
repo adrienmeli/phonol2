@@ -6,6 +6,9 @@
 
 Parmi les mots suivants, quels sont ceux dont les voyelles ne respectent pas la règle orthographique ?
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -27,6 +30,8 @@ radio\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
 
 
 
@@ -50,6 +55,8 @@ back\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
 
 
 
@@ -84,6 +91,9 @@ The tables defining the basic spelling rules **must be known by heart**.
  
 ## Practice
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -110,6 +120,9 @@ answer\\
 
 ## Homework
 
+Listen to the following words and transcribe them:
+
+
 
  
 \begin{longtable}{l}
@@ -130,6 +143,8 @@ lamb\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
 
 
 
@@ -153,6 +168,8 @@ wall\\
 \end{longtable} 
 
 ---
+
+Listen to the following words and transcribe them:
 
 
 
