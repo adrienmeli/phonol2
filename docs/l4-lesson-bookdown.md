@@ -76,12 +76,12 @@ The Northern Cities Shift is a rotation of short vowels taking place
 in the Inland North, a territory comprising 34 million speakers.
 
 
- \begin{wrapfigure}{r}{0.33\textwidth}\begin{center}\includegraphics[width=6cm]{/home/adrien/Teaching/eiffel/phonol2/l4/Inland_North_Map.jpg} \end{center} \caption{Map of the Inland North} \end{wrapfigure}
+ \begin{wrapfigure}{r}{0.40\textwidth}\begin{center}\includegraphics[width=4cm]{/home/adrien/Teaching/eiffel/phonol2/l4/Inland_North_Map.jpg} \end{center} \caption{Map of the Inland North} \end{wrapfigure}
 
 
 
  
- \begin{wrapfigure}{r}{0.33\textwidth}\begin{center}\includegraphics[width=6cm]{/home/adrien/Teaching/eiffel/phonol2/l4/Northern_Cities_shift.jpg} \end{center} \caption{The Northern Cities Shift} \end{wrapfigure}
+ \begin{wrapfigure}{r}{0.40\textwidth}\begin{center}\includegraphics[width=4cm]{/home/adrien/Teaching/eiffel/phonol2/l4/Northern_Cities_shift.jpg} \end{center} \caption{The Northern Cities Shift} \end{wrapfigure}
 
  
 
@@ -161,7 +161,7 @@ Senior citizens living on the black.\\
 \bottomrule
 \end{longtable}
 
- \begin{wrapfigure}{r}{0.33\textwidth}\begin{center}\includegraphics[width=6cm]{/home/adrien/Teaching/eiffel/phonol2/l4/Northern_Cities_shift.jpg} \end{center} \caption{} \end{wrapfigure}
+ \begin{wrapfigure}{r}{0.40\textwidth}\begin{center}\includegraphics[width=4cm]{/home/adrien/Teaching/eiffel/phonol2/l4/Northern_Cities_shift.jpg} \end{center} \caption{} \end{wrapfigure}
 
 
 
