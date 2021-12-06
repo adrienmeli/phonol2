@@ -9,7 +9,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{watch} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{w6tS}/}\\
 chat & /1/ & /\textipa{tS\ae t}/\\

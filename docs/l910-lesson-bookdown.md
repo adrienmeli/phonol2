@@ -46,7 +46,7 @@ IPA & Word\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{trivial} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"trIv.i.@l}/}\\
 radian & /100/ & /\textipa{"reId.i.@n}/\\
@@ -65,7 +65,7 @@ influential & /2010/ & /\textipa{""Inf.lu."enS.@l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{diachronic} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""daI.@."kr6n.Ik}/}\\
 insinuate & /0100/ & /\textipa{In."sIn.ju.eIt}/\\
@@ -102,7 +102,7 @@ La liste suivante contient des exceptions. Trouvez lesquelles, et expliquez en q
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{museum} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{mju."zi:.@m}/}\\
 television & /1020/ & /\textipa{"tel.I.""vIZ.@n}/\\
@@ -144,21 +144,20 @@ icon\\
 episode\\
 \cellcolor{gray!6}{gene}\\
 \addlinespace
-scorbut\\
-\cellcolor{gray!6}{analysis}\\
-volcano\\
-\cellcolor{gray!6}{dramatic}\\
-prophetic\\
+analysis\\
+\cellcolor{gray!6}{volcano}\\
+dramatic\\
+\cellcolor{gray!6}{prophetic}\\
+episodic\\
 \addlinespace
-\cellcolor{gray!6}{episodic}\\
-prolific\\
-\cellcolor{gray!6}{scorbutic}\\
-volcanic\\
-\cellcolor{gray!6}{genetic}\\
+\cellcolor{gray!6}{prolific}\\
+scorbutic\\
+\cellcolor{gray!6}{volcanic}\\
+genetic\\
+\cellcolor{gray!6}{analytic}\\
 \addlinespace
-analytic\\
-\cellcolor{gray!6}{iconic}\\
-music\\
+iconic\\
+\cellcolor{gray!6}{music}\\
 \bottomrule
 \end{longtable} 
 
@@ -200,7 +199,7 @@ IPA\\
 \cellcolor{gray!6}{/\textipa{faI."n\ae nS.@l}/}\\
 /\textipa{"mi:d.i.eIt}/\\
 \cellcolor{gray!6}{/\textipa{sA:."d6n.Ik}/}\\
-/NA/\\
+/\textipa{""ref.@."renS.@l}/\\
 \bottomrule
 \end{longtable}
 

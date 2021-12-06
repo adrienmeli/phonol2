@@ -8,7 +8,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{age} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{eIdZ}/}\\
 jinx & /1/ & /\textipa{dZINks}/\\
@@ -26,7 +26,7 @@ lamb & /1/ & /\textipa{l\ae m}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{straight} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{streIt}/}\\
 sustain & /01/ & /\textipa{s@."steIn}/\\
@@ -45,7 +45,7 @@ wall & /1/ & /\textipa{wO:l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{these} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{Di:z}/}\\
 figure & /10/ & /\textipa{"fIg.@}/\\

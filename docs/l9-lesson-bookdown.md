@@ -13,7 +13,7 @@ We follow @duchet2018
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{discussion} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."sk2S.@n}/}\\
 publicity & /0100/ & /\textipa{p2b."lIs.@t.i}/\\
@@ -43,7 +43,7 @@ The primary stress is located on the syllable preceding the suffix.
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{onion} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"2n.j@n}/}\\
 clarity & /100/ & /\textipa{"kl\ae r.@t.i}/\\
@@ -68,7 +68,7 @@ What rules regarding secondary stress can be infered from the following examples
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{character} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae r.@kt.@}/}\\
 characteristic & /20010/ & /\textipa{""k\ae r.@kt.@."rIst.Ik}/\\
@@ -119,7 +119,7 @@ Observez les mots suivants et essayez de formaliser la règle d'accentuation des
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{opinion} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@."pIn.j@n}/}\\
 stupefaction & /2010/ & /\textipa{""stju:p.I."f\ae k.S@n}/\\

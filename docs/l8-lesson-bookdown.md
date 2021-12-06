@@ -13,7 +13,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{it was spectacular} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{It} \textipa{w6z} \textipa{spek."t\ae k.jUl.@}/}\\
 of course & // & /\textipa{6v} \textipa{kO:s}/\\
@@ -38,7 +38,7 @@ as she sometimes did & // & /\textipa{\ae z} \textipa{Si:} \textipa{"s2m.taImz} 
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{absorb} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@b."sO:b}/}\\
 obsession & /010/ & /\textipa{@b."seS.@n}/\\
@@ -67,7 +67,7 @@ Explain the pronunciations of:
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{tagged} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{t\ae gd}/}\\
 tacked & /1/ & /\textipa{t\ae kt}/\\
@@ -93,7 +93,7 @@ Explain the pronunciations of:
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{shoves} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{S2vz}/}\\
 freckles & /10/ & /\textipa{"frek.@lz}/\\
@@ -125,7 +125,7 @@ Historically, elision is a very common phenomenon:
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{cupboard} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2b.@d}/}\\
 talk & /1/ & /\textipa{tO:k}/\\
@@ -160,7 +160,7 @@ Regardless of the rhoticity of a given accent of English, a **linking /r/** is o
 
 \begin{longtable}{lll}
 \toprule
-Word & Stress & Received Pronunciation\\
+Word & Sound & Stress\\
 \midrule
 \cellcolor{gray!6}{sure enough} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{SO:} \textipa{I."n2f}/}\\
 the sofa in the catalogue & // & /\textipa{Di:} \textipa{"s@Uf.@} \textipa{In} \textipa{Di:} \textipa{"k\ae t.@.l6g}/\\
