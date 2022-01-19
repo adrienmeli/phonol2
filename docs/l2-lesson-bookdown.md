@@ -16,7 +16,7 @@ Nous appellerons "règle orthographique" le tableau de correspondance entre orth
 \toprule
  & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
 \midrule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{mat} & \cellcolor{gray!6}{mate} & \cellcolor{gray!6}{mar} & \cellcolor{gray!6}{mare}\\
+\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{hat} & \cellcolor{gray!6}{hate} & \cellcolor{gray!6}{car} & \cellcolor{gray!6}{care}\\
 <e> & pet & Pete & her & here\\
 \cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
 <o> & not & note & or & ore\\
@@ -37,7 +37,7 @@ Ce tableau est **\color[HTML]{f44336}fondamental \color{black}**.
 \toprule
  & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
 \midrule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{mat} & \cellcolor{gray!6}{mate} & \cellcolor{gray!6}{mar} & \cellcolor{gray!6}{mare}\\
+\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{hat} & \cellcolor{gray!6}{hate} & \cellcolor{gray!6}{car} & \cellcolor{gray!6}{care}\\
 <e> & pet & Pete & her & here\\
 \cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
 <o> & not & note & or & ore\\
@@ -54,7 +54,7 @@ Ce tableau est **\color[HTML]{f44336}fondamental \color{black}**.
 \centering
 \begin{tabular}{lllll}
 \toprule
-\cellcolor{gray!6}{/NA/} & \cellcolor{gray!6}{/\textipa{m\ae t}/} & \cellcolor{gray!6}{/\textipa{meIt}/} & \cellcolor{gray!6}{/\textipa{mA:}/} & \cellcolor{gray!6}{/\textipa{me@}/}\\
+\cellcolor{gray!6}{/NA/} & \cellcolor{gray!6}{/\textipa{h\ae t}/} & \cellcolor{gray!6}{/\textipa{heIt}/} & \cellcolor{gray!6}{/\textipa{kA:}/} & \cellcolor{gray!6}{/\textipa{ke@}/}\\
 /NA/ & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
 \cellcolor{gray!6}{/NA/} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
 /NA/ & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
@@ -71,7 +71,7 @@ Ce tableau est **\color[HTML]{f44336}fondamental \color{black}**.
 \centering
 \begin{tabular}{lllll}
 \toprule
-\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{\textipa{/m\ae t/}} & \cellcolor{gray!6}{\textipa{/meIt/}} & \cellcolor{gray!6}{\textipa{/mA:r/}} & \cellcolor{gray!6}{\textipa{/mer/}}\\
+\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{\textipa{/h\ae t/}} & \cellcolor{gray!6}{\textipa{/heIt/}} & \cellcolor{gray!6}{\textipa{/kA:r/}} & \cellcolor{gray!6}{\textipa{/ker/}}\\
 <e> & \textipa{/pet/} & \textipa{/pi:t/} & \textipa{/h@r/} & \textipa{/hIr/}\\
 \cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{\textipa{/sIt/}} & \cellcolor{gray!6}{\textipa{/saIt/}} & \cellcolor{gray!6}{\textipa{/f3 \textrhoticity :/}} & \cellcolor{gray!6}{/\textipa{"faI.@r}/}\\
 <o> & \textipa{/nA:t/} & \textipa{/noUt/} & \textipa{/O:r/} & \textipa{/O:r/}\\

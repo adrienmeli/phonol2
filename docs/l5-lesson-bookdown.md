@@ -152,22 +152,11 @@ In historical assimilation, the **citation form** features the assimilated sound
 
 #### Citation forms
 
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{hed} \textipa{"kwO:t.@z}/}\\
-/\textipa{meIn} \textipa{kO:s}/\\
-\cellcolor{gray!6}{/\textipa{m\ae tSt} \textipa{pe@z}/}\\
-/\textipa{p@."h\ae ps}/\\
-\cellcolor{gray!6}{/\textipa{"brO:d.kA:st}/}\\
-\addlinespace
-/\textipa{waIt} \textipa{"pep.@}/\\
-\cellcolor{gray!6}{/\textipa{6n} \textipa{Di:} \textipa{haUs}/}\\
-/\textipa{reIz} \textipa{jO:} \textipa{glA:s}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{hed} \textipa{"kwO:t.@z}/{\tiny\dotfill}\item /\textipa{meIn} \textipa{kO:s}/{\tiny\dotfill}\item /\textipa{m\ae tSt} \textipa{pe@z}/{\tiny\dotfill}\item /\textipa{p@."h\ae ps}/{\tiny\dotfill}\item /\textipa{"brO:d.kA:st}/{\tiny\dotfill}\item /\textipa{waIt} \textipa{"pep.@}/{\tiny\dotfill}\item /\textipa{6n} \textipa{Di:} \textipa{haUs}/{\tiny\dotfill}\item /\textipa{reIz} \textipa{jO:} \textipa{glA:s}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
 #### Assimilation in connected speech
 

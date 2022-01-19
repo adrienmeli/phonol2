@@ -162,7 +162,7 @@ Regardless of the rhoticity of a given accent of English, a **linking /r/** is o
 \toprule
 Word & Sound & Stress\\
 \midrule
-\cellcolor{gray!6}{sure enough} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{SO:} \textipa{I."n2f}/}\\
+\cellcolor{gray!6}{sure enough} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{SO:} \textipa{@."n2f}/}\\
 the sofa in the catalogue & // & /\textipa{Di:} \textipa{"s@Uf.@} \textipa{In} \textipa{Di:} \textipa{"k\ae t.@.l6g}/\\
 \cellcolor{gray!6}{my idea of heaven} & \cellcolor{gray!6}{//} & \cellcolor{gray!6}{/\textipa{maI} \textipa{aI."dI@} \textipa{6v} \textipa{"hev.@n}/}\\
 we saw a film & // & /\textipa{wi:} \textipa{sO:} \textipa{eI} \textipa{fIlm}/\\

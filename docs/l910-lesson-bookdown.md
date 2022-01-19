@@ -5,43 +5,17 @@
 
 ## Correction
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{m@."dZIS.@n}/\hfill\textit{\textbf{magician\hspace*{0.5cm}}}\item /\textipa{k@."mi:d.i.@n}/\hfill\textit{\textbf{comedian\hspace*{0.5cm}}}\item /\textipa{m@."lIS.@}/\hfill\textit{\textbf{militia\hspace*{0.5cm}}}\item /\textipa{I."n3:S.@}/\hfill\textit{\textbf{inertia\hspace*{0.5cm}}}\item /\textipa{"Id.i.@t}/\hfill\textit{\textbf{idiot\hspace*{0.5cm}}}\item /\textipa{"reId.i.@U}/\hfill\textit{\textbf{radio\hspace*{0.5cm}}}\item /\textipa{"hId.i.@s}/\hfill\textit{\textbf{hideous\hspace*{0.5cm}}}\item /\textipa{k@."reIdZ.@s}/\hfill\textit{\textbf{courageous\hspace*{0.5cm}}}\item /\textipa{"pIdZ.@n}/\hfill\textit{\textbf{pigeon\hspace*{0.5cm}}}\item /\textipa{"d2ndZ.@n}/\hfill\textit{\textbf{dungeon\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{m@."dZIS.@n}/} & \cellcolor{gray!6}{magician}\\
-/\textipa{k@."mi:d.i.@n}/ & comedian\\
-\cellcolor{gray!6}{/\textipa{m@."lIS.@}/} & \cellcolor{gray!6}{militia}\\
-/\textipa{I."n3:S.@}/ & inertia\\
-\cellcolor{gray!6}{/\textipa{"Id.i.@t}/} & \cellcolor{gray!6}{idiot}\\
-\addlinespace
-/\textipa{"reId.i.@U}/ & radio\\
-\cellcolor{gray!6}{/\textipa{"hId.i.@s}/} & \cellcolor{gray!6}{hideous}\\
-/\textipa{k@."reIdZ.@s}/ & courageous\\
-\cellcolor{gray!6}{/\textipa{"pIdZ.@n}/} & \cellcolor{gray!6}{pigeon}\\
-/\textipa{"d2ndZ.@n}/ & dungeon\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{""daI.@."lekt.Ik}/} & \cellcolor{gray!6}{dialectic}\\
-/\textipa{I."nIS.i.eIt}/ & initiate\\
-\cellcolor{gray!6}{/\textipa{""prez.I."denS.@l}/} & \cellcolor{gray!6}{presidential}\\
-/\textipa{p@."sep.tSu.@l}/ & perceptual\\
-\cellcolor{gray!6}{/\textipa{k@n."vIv.i.@l}/} & \cellcolor{gray!6}{convivial}\\
-\addlinespace
-/\textipa{k@n."tr\ae k.tSu.@l}/ & contractual\\
-\cellcolor{gray!6}{/\textipa{"sI@r.i.@l}/} & \cellcolor{gray!6}{serial}\\
-/\textipa{s@."lest.i.@l}/ & celestial\\
-\cellcolor{gray!6}{/\textipa{vi."ke@r.i.@s}/} & \cellcolor{gray!6}{vicarious}\\
-/\textipa{""\ae d.v3:."se@r.i.@l}/ & adversarial\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{""daI.@."lekt.Ik}/\hfill\textit{\textbf{dialectic\hspace*{0.5cm}}}\item /\textipa{I."nIS.i.eIt}/\hfill\textit{\textbf{initiate\hspace*{0.5cm}}}\item /\textipa{""prez.I."denS.@l}/\hfill\textit{\textbf{presidential\hspace*{0.5cm}}}\item /\textipa{p@."sep.tSu.@l}/\hfill\textit{\textbf{perceptual\hspace*{0.5cm}}}\item /\textipa{k@n."vIv.i.@l}/\hfill\textit{\textbf{convivial\hspace*{0.5cm}}}\item /\textipa{k@n."tr\ae k.tSu.@l}/\hfill\textit{\textbf{contractual\hspace*{0.5cm}}}\item /\textipa{"sI@r.i.@l}/\hfill\textit{\textbf{serial\hspace*{0.5cm}}}\item /\textipa{s@."lest.i.@l}/\hfill\textit{\textbf{celestial\hspace*{0.5cm}}}\item /\textipa{vi."ke@r.i.@s}/\hfill\textit{\textbf{vicarious\hspace*{0.5cm}}}\item /\textipa{""\ae d.v3:."se@r.i.@l}/\hfill\textit{\textbf{adversarial\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 
 \begin{longtable}{lll}
@@ -165,43 +139,17 @@ iconic\\
 
 **Que remarquez-vous concernant la qualité des voyelles ?**
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{b@."t\ae n.Ik}/{\tiny\dotfill}\item /\textipa{s@."lu:b.ri.@s}/{\tiny\dotfill}\item /\textipa{"ju:Z.u.@l}/{\tiny\dotfill}\item /\textipa{h@."bItS.u.@l}/{\tiny\dotfill}\item /\textipa{saI."k6t.Ik}/{\tiny\dotfill}\item /\textipa{dr@."k@Un.i.@n}/{\tiny\dotfill}\item /\textipa{"dZi:n.i.@l}/{\tiny\dotfill}\item /\textipa{di."lIr.i.@s}/{\tiny\dotfill}\item /\textipa{s@."r\ae m.Ik}/{\tiny\dotfill}\item /\textipa{f@."mIl.i.@}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{b@."t\ae n.Ik}/}\\
-/\textipa{s@."lu:b.ri.@s}/\\
-\cellcolor{gray!6}{/\textipa{"ju:Z.u.@l}/}\\
-/\textipa{h@."bItS.u.@l}/\\
-\cellcolor{gray!6}{/\textipa{saI."k6t.Ik}/}\\
-\addlinespace
-/\textipa{dr@."k@Un.i.@n}/\\
-\cellcolor{gray!6}{/\textipa{"dZi:n.i.@l}/}\\
-/\textipa{di."lIr.i.@s}/\\
-\cellcolor{gray!6}{/\textipa{s@."r\ae m.Ik}/}\\
-/\textipa{f@."mIl.i.@}/\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{""g\ae s.tr@."n6m.Ik}/}\\
-\cellcolor{gray!6}{/\textipa{"mju:tS.u.@l}/}\\
-\cellcolor{gray!6}{/\textipa{""en.Ig."m\ae t.Ik}/}\\
-/\textipa{""pA:s.I."m@Un.i.@s}/\\
-/\textipa{"mju:tS.u.@l}/\\
-\addlinespace
-/\textipa{"stju:d.i.@s}/\\
-\cellcolor{gray!6}{/\textipa{faI."n\ae nS.@l}/}\\
-/\textipa{"mi:d.i.eIt}/\\
-\cellcolor{gray!6}{/\textipa{sA:."d6n.Ik}/}\\
-/\textipa{""ref.@."renS.@l}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{""g\ae s.tr@."n6m.Ik}/{\tiny\dotfill}\item /\textipa{"mju:tS.u.@l}/{\tiny\dotfill}\item /\textipa{""en.Ig."m\ae t.Ik}/{\tiny\dotfill}\item /\textipa{""pA:s.I."m@Un.i.@s}/{\tiny\dotfill}\item /\textipa{"mju:tS.u.@l}/{\tiny\dotfill}\item /\textipa{"stju:d.i.@s}/{\tiny\dotfill}\item /\textipa{faI."n\ae nS.@l}/{\tiny\dotfill}\item /\textipa{"mi:d.i.eIt}/{\tiny\dotfill}\item /\textipa{sA:."d6n.Ik}/{\tiny\dotfill}\item /\textipa{""ref.@."renS.@l}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
 Listen to the following words and transcribe them:
 

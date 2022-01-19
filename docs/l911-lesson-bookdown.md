@@ -38,45 +38,19 @@ iconic & /010/ & /\textipa{aI."k6n.Ik}/\\
 
 ### Ex2
 
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{b@."t\ae n.Ik}/} & \cellcolor{gray!6}{botanic}\\
-/\textipa{s@."lu:b.ri.@s}/ & salubrious\\
-\cellcolor{gray!6}{/\textipa{"ju:Z.u.@l}/} & \cellcolor{gray!6}{usual}\\
-/\textipa{h@."bItS.u.@l}/ & habitual\\
-\cellcolor{gray!6}{/\textipa{saI."k6t.Ik}/} & \cellcolor{gray!6}{psychotic}\\
-\addlinespace
-/\textipa{dr@."k@Un.i.@n}/ & draconian\\
-\cellcolor{gray!6}{/\textipa{"dZi:n.i.@l}/} & \cellcolor{gray!6}{genial}\\
-/\textipa{di."lIr.i.@s}/ & delirious\\
-\cellcolor{gray!6}{/\textipa{s@."r\ae m.Ik}/} & \cellcolor{gray!6}{ceramic}\\
-/\textipa{f@."mIl.i.@}/ & familiar\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{b@."t\ae n.Ik}/\hfill\textit{\textbf{botanic\hspace*{0.5cm}}}\item /\textipa{s@."lu:b.ri.@s}/\hfill\textit{\textbf{salubrious\hspace*{0.5cm}}}\item /\textipa{"ju:Z.u.@l}/\hfill\textit{\textbf{usual\hspace*{0.5cm}}}\item /\textipa{h@."bItS.u.@l}/\hfill\textit{\textbf{habitual\hspace*{0.5cm}}}\item /\textipa{saI."k6t.Ik}/\hfill\textit{\textbf{psychotic\hspace*{0.5cm}}}\item /\textipa{dr@."k@Un.i.@n}/\hfill\textit{\textbf{draconian\hspace*{0.5cm}}}\item /\textipa{"dZi:n.i.@l}/\hfill\textit{\textbf{genial\hspace*{0.5cm}}}\item /\textipa{di."lIr.i.@s}/\hfill\textit{\textbf{delirious\hspace*{0.5cm}}}\item /\textipa{s@."r\ae m.Ik}/\hfill\textit{\textbf{ceramic\hspace*{0.5cm}}}\item /\textipa{f@."mIl.i.@}/\hfill\textit{\textbf{familiar\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 ### Ex3
 
-
-\begin{longtable}{ll}
-\toprule
-IPA & Word\\
-\midrule
-\cellcolor{gray!6}{/\textipa{""g\ae s.tr@."n6m.Ik}/} & \cellcolor{gray!6}{gastronomic}\\
-/\textipa{"mju:tS.u.@l}/ & \vphantom{1} mutual\\
-\cellcolor{gray!6}{/\textipa{""en.Ig."m\ae t.Ik}/} & \cellcolor{gray!6}{enigmatic}\\
-/\textipa{""pA:s.I."m@Un.i.@s}/ & parsimonious\\
-\cellcolor{gray!6}{/\textipa{"mju:tS.u.@l}/} & \cellcolor{gray!6}{mutual}\\
-\addlinespace
-/\textipa{"stju:d.i.@s}/ & studious\\
-\cellcolor{gray!6}{/\textipa{faI."n\ae nS.@l}/} & \cellcolor{gray!6}{financial}\\
-/\textipa{"mi:d.i.eIt}/ & mediate\\
-\cellcolor{gray!6}{/\textipa{sA:."d6n.Ik}/} & \cellcolor{gray!6}{sardonic}\\
-/\textipa{""ref.@."renS.@l}/ & referential\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{""g\ae s.tr@."n6m.Ik}/\hfill\textit{\textbf{gastronomic\hspace*{0.5cm}}}\item /\textipa{"mju:tS.u.@l}/\hfill\textit{\textbf{mutual\hspace*{0.5cm}}}\item /\textipa{""en.Ig."m\ae t.Ik}/\hfill\textit{\textbf{enigmatic\hspace*{0.5cm}}}\item /\textipa{""pA:s.I."m@Un.i.@s}/\hfill\textit{\textbf{parsimonious\hspace*{0.5cm}}}\item /\textipa{"mju:tS.u.@l}/\hfill\textit{\textbf{mutual\hspace*{0.5cm}}}\item /\textipa{"stju:d.i.@s}/\hfill\textit{\textbf{studious\hspace*{0.5cm}}}\item /\textipa{faI."n\ae nS.@l}/\hfill\textit{\textbf{financial\hspace*{0.5cm}}}\item /\textipa{"mi:d.i.eIt}/\hfill\textit{\textbf{mediate\hspace*{0.5cm}}}\item /\textipa{sA:."d6n.Ik}/\hfill\textit{\textbf{sardonic\hspace*{0.5cm}}}\item /\textipa{""ref.@."renS.@l}/\hfill\textit{\textbf{referential\hspace*{0.5cm}}}\end{enumerate}
+\end{multicols}
 
 ### Ex4
 
@@ -186,9 +160,9 @@ rhetoric & /100/ & /\textipa{"ret.@.rIk}/\\
 \begin{longtable}{lll}
 \toprule
 \cellcolor{gray!6}{Stress pattern} & \cellcolor{gray!6}{Technical name} & \cellcolor{gray!6}{The primary stress is on}\\
-/-1/ & oxyton & the ultimate\\
-\cellcolor{gray!6}{/-10/} & \cellcolor{gray!6}{paroxyton} & \cellcolor{gray!6}{the penultimate}\\
-/-100/ & proparoxyton & the antepenultimate\\
+/-1/ & oxytone & the ultimate\\
+\cellcolor{gray!6}{/-10/} & \cellcolor{gray!6}{paroxytone} & \cellcolor{gray!6}{the penultimate}\\
+/-100/ & proparoxytone & the antepenultimate\\
 \bottomrule
 \end{longtable}
 

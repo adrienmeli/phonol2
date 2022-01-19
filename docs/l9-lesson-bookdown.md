@@ -136,43 +136,17 @@ gradual & /100/ & /\textipa{"gr\ae dZ.u.@l}/\\
 \end{longtable}
 ## Homework
 
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{m@."dZIS.@n}/{\tiny\dotfill}\item /\textipa{k@."mi:d.i.@n}/{\tiny\dotfill}\item /\textipa{m@."lIS.@}/{\tiny\dotfill}\item /\textipa{I."n3:S.@}/{\tiny\dotfill}\item /\textipa{"Id.i.@t}/{\tiny\dotfill}\item /\textipa{"reId.i.@U}/{\tiny\dotfill}\item /\textipa{"hId.i.@s}/{\tiny\dotfill}\item /\textipa{k@."reIdZ.@s}/{\tiny\dotfill}\item /\textipa{"pIdZ.@n}/{\tiny\dotfill}\item /\textipa{"d2ndZ.@n}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{m@."dZIS.@n}/}\\
-/\textipa{k@."mi:d.i.@n}/\\
-\cellcolor{gray!6}{/\textipa{m@."lIS.@}/}\\
-/\textipa{I."n3:S.@}/\\
-\cellcolor{gray!6}{/\textipa{"Id.i.@t}/}\\
-\addlinespace
-/\textipa{"reId.i.@U}/\\
-\cellcolor{gray!6}{/\textipa{"hId.i.@s}/}\\
-/\textipa{k@."reIdZ.@s}/\\
-\cellcolor{gray!6}{/\textipa{"pIdZ.@n}/}\\
-/\textipa{"d2ndZ.@n}/\\
-\bottomrule
-\end{longtable}
-
-
-\begin{longtable}{l}
-\toprule
-IPA\\
-\midrule
-\cellcolor{gray!6}{/\textipa{""daI.@."lekt.Ik}/}\\
-/\textipa{I."nIS.i.eIt}/\\
-\cellcolor{gray!6}{/\textipa{""prez.I."denS.@l}/}\\
-/\textipa{p@."sep.tSu.@l}/\\
-\cellcolor{gray!6}{/\textipa{k@n."vIv.i.@l}/}\\
-\addlinespace
-/\textipa{k@n."tr\ae k.tSu.@l}/\\
-\cellcolor{gray!6}{/\textipa{"sI@r.i.@l}/}\\
-/\textipa{s@."lest.i.@l}/\\
-\cellcolor{gray!6}{/\textipa{vi."ke@r.i.@s}/}\\
-/\textipa{""\ae d.v3:."se@r.i.@l}/\\
-\bottomrule
-\end{longtable}
+\begin{multicols}{2}
+\begin{enumerate}
+\setlength\itemsep{0.25cm}
+\item /\textipa{""daI.@."lekt.Ik}/{\tiny\dotfill}\item /\textipa{I."nIS.i.eIt}/{\tiny\dotfill}\item /\textipa{""prez.I."denS.@l}/{\tiny\dotfill}\item /\textipa{p@."sep.tSu.@l}/{\tiny\dotfill}\item /\textipa{k@n."vIv.i.@l}/{\tiny\dotfill}\item /\textipa{k@n."tr\ae k.tSu.@l}/{\tiny\dotfill}\item /\textipa{"sI@r.i.@l}/{\tiny\dotfill}\item /\textipa{s@."lest.i.@l}/{\tiny\dotfill}\item /\textipa{vi."ke@r.i.@s}/{\tiny\dotfill}\item /\textipa{""\ae d.v3:."se@r.i.@l}/{\tiny\dotfill}\end{enumerate}
+\end{multicols}
 
 Listen to the following words and transcribe them:
 
