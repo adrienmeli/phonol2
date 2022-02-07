@@ -472,6 +472,59 @@ hideous & /100/ & /\textipa{"hId.i.@s}/\\
 \cellcolor{gray!6}{courageous} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{k@."reIdZ.@s}/}\\
 pigeon & /10/ & /\textipa{"pIdZ.@n}/\\
 \cellcolor{gray!6}{dungeon} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"d2ndZ.@n}/}\\
+\addlinespace
+mentality & /0100/ & /\textipa{men."t\ae l.@t.i}/\\
+\cellcolor{gray!6}{serenity} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{s@."ren.@t.i}/}\\
+validity & /0100/ & /\textipa{v@."lId.@t.i}/\\
+\cellcolor{gray!6}{jocosity} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{dZ@U."k6s.@t.i}/}\\
+immunity & /0100/ & /\textipa{I."mju:n.@t.i}/\\
+\addlinespace
+\cellcolor{gray!6}{regularity} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""reg.ju."l\ae r.@t.i}/}\\
+sincerity & /0100/ & /\textipa{sIn."ser.@t.i}/\\
+\cellcolor{gray!6}{seniority} & \cellcolor{gray!6}{/20100/} & \cellcolor{gray!6}{/\textipa{""si:n.i."6r.@t.i}/}\\
+maturity & /0100/ & /\textipa{m@."tSU@r.@t.i}/\\
+\cellcolor{gray!6}{traumatic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{trO:."m\ae t.Ik}/}\\
+\addlinespace
+systemic & /010/ & /\textipa{si."sti:m.Ik}/\\
+\cellcolor{gray!6}{specific} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{sp@."sIf.Ik}/}\\
+prosodic & /010/ & /\textipa{pr@."s6d.Ik}/\\
+\cellcolor{gray!6}{barbaric} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{bA:."b\ae r.Ik}/}\\
+generic & /010/ & /\textipa{dZ@."ner.Ik}/\\
+\addlinespace
+\cellcolor{gray!6}{satiric} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{s@."tIr.Ik}/}\\
+telluric & /010/ & /\textipa{te."lU@r.Ik}/\\
+\cellcolor{gray!6}{radiant} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"reId.i.@nt}/}\\
+deviant & /100/ & /\textipa{"di:v.i.@nt}/\\
+\cellcolor{gray!6}{reptilian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{rep."tIl.i.@n}/}\\
+\addlinespace
+custodian & /0100/ & /\textipa{k2."st@Ud.i.@n}/\\
+\cellcolor{gray!6}{Peruvian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{p@."ru:v.i.@n}/}\\
+variant & /100/ & /\textipa{"ve@r.i.@nt}/\\
+\cellcolor{gray!6}{Nigerian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{naI."dZI@r.i.@n}/}\\
+Gregorian & /0100/ & /\textipa{gri."gO:r.i.@n}/\\
+\addlinespace
+\cellcolor{gray!6}{tellurian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{te."lU@r.i.@n}/}\\
+mental & /10/ & /\textipa{"ment.@l}/\\
+\cellcolor{gray!6}{serene} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."ri:n}/}\\
+valid & /10/ & /\textipa{"v\ae l.Id}/\\
+\cellcolor{gray!6}{jocose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dZ@U."k@Us}/}\\
+\addlinespace
+immune & /01/ & /\textipa{I."mju:n}/\\
+\cellcolor{gray!6}{regular} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"reg.jUl.@}/}\\
+sincere & /01/ & /\textipa{sIn."sI@}/\\
+\cellcolor{gray!6}{senior} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"si:n.i.@}/}\\
+mature & /01/ & /\textipa{m@."tSU@}/\\
+\addlinespace
+\cellcolor{gray!6}{various} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"ve@r.i.@s}/}\\
+serious & /100/ & /\textipa{"sI@r.i.@s}/\\
+\cellcolor{gray!6}{notorious} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{n@U."tO:r.i.@s}/}\\
+furious & /100/ & /\textipa{"fjU@r.i.@s}/\\
+\cellcolor{gray!6}{ovation} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@U."veIS.@n}/}\\
+\addlinespace
+depletion & /010/ & /\textipa{di."pli:S.@n}/\\
+\cellcolor{gray!6}{condition} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{k@n."dIS.@n}/}\\
+devotion & /010/ & /\textipa{di."v@US.@n}/\\
+\cellcolor{gray!6}{solution} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{s@."lu:S.@n}/}\\
 \bottomrule
 \end{longtable}
 
