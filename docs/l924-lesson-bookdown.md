@@ -114,7 +114,3 @@ seniority & /20100/ & /\textipa{""si:n.i."6r.@t.i}/\\
 \end{longtable}
 
 
-
-### Derived forms
-
-
