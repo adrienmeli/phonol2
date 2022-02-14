@@ -11,7 +11,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{botanic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{b@."t\ae n.Ik}/}\\
 salubrious & /0100/ & /\textipa{s@."lu:b.ri.@s}/\\
@@ -32,7 +32,7 @@ familiar & /0100/ & /\textipa{f@."mIl.i.@}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{ovation} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{@U."veIS.@n}/}\\
 depletion & /010/ & /\textipa{di."pli:S.@n}/\\
@@ -45,7 +45,7 @@ devotion & /010/ & /\textipa{di."v@US.@n}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{various} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"ve@r.i.@s}/}\\
 serious & /100/ & /\textipa{"sI@r.i.@s}/\\

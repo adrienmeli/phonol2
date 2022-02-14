@@ -115,7 +115,7 @@ Vowels not present in this chart:
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{shard} & \cellcolor{gray!6}{/1/} & \cellcolor{gray!6}{/\textipa{SA:d}/}\\
 gem & /1/ & /\textipa{dZem}/\\

@@ -8,7 +8,7 @@
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{gastronomic} & \cellcolor{gray!6}{/2010/} & \cellcolor{gray!6}{/\textipa{""g\ae s.tr@."n6m.Ik}/}\\
 mutual & /100/ & /\textipa{"mju:tS.u.@l}/\\
@@ -27,7 +27,7 @@ referential & /2010/ & /\textipa{""ref.@."renS.@l}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{frenetic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{fr@."net.Ik}/}\\
 angelic & /010/ & /\textipa{\ae n."dZel.Ik}/\\
@@ -46,7 +46,7 @@ melancholic & /2010/ & /\textipa{""mel.@n."k6l.Ik}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{fanatic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{f@."n\ae t.Ik}/}\\
 pedestrian & /0100/ & /\textipa{p@."des.tri.@n}/\\
@@ -80,7 +80,7 @@ Ces mots sont appelés **proparoxytons**.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{mental} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ment.@l}/}\\
 serene & /01/ & /\textipa{s@."ri:n}/\\
@@ -98,7 +98,7 @@ senior & /100/ & /\textipa{"si:n.i.@}/\\
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{mentality} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{men."t\ae l.@t.i}/}\\
 serenity & /0100/ & /\textipa{s@."ren.@t.i}/\\

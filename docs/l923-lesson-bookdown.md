@@ -31,7 +31,7 @@ dont la prononciation est relâchée.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{radiant} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"reId.i.@nt}/}\\
 deviant & /100/ & /\textipa{"di:v.i.@nt}/\\
@@ -63,7 +63,7 @@ Trouvez des mots en <-ic> et analysez la qualité de la voyelle accentuée.
 
 \begin{longtable}{lll}
 \toprule
-Word & Sound & Stress\\
+Word & Stress Pattern & IPA (RP)\\
 \midrule
 \cellcolor{gray!6}{traumatic} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{trO:."m\ae t.Ik}/}\\
 systemic & /010/ & /\textipa{si."sti:m.Ik}/\\
