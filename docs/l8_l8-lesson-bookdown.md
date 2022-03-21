@@ -92,21 +92,21 @@
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /əb.'sɔːb/ </td>
    <td style="text-align:left;"> /əb.'sɔːb/ </td>
-   <td style="text-align:left;"> ![](sounds/absorb-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/absorb-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> obsession </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /əb.'seʃ.ən/ </td>
    <td style="text-align:left;"> /əb.'seʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/obsession-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/obsession-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> absurd </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /əb.'sɜːd/ </td>
    <td style="text-align:left;"> /əb.'s3r ːd/ </td>
-   <td style="text-align:left;"> ![](sounds/absurd-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/absurd-1.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -166,7 +166,7 @@ Explain the pronunciations of:
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kɜːst/ </td>
    <td style="text-align:left;"> /kɜ˞ːst/ </td>
-   <td style="text-align:left;"> ![](sounds/cursed-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cursed-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> played </td>
@@ -297,21 +297,21 @@ Historically, elision is a very common phenomenon:
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kʌb.əd/ </td>
    <td style="text-align:left;"> /'kʌb.əd/ </td>
-   <td style="text-align:left;"> ![](sounds/cupboard-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cupboard-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> talk </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /tɔːk/ </td>
    <td style="text-align:left;"> /tɔːk/ </td>
-   <td style="text-align:left;"> ![](sounds/talk-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/talk-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> comb </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kəʊm/ </td>
    <td style="text-align:left;"> /koʊm/ </td>
-   <td style="text-align:left;"> ![](sounds/comb-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comb-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gnome </td>
@@ -419,34 +419,34 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/discussion-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/discussion-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/publicity-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/publicity-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/republic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/republic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/magnify-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/nourish-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/nourish-9.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/division-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/division-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/capacity-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/capacity-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/terrific-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/terrific-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/crucify-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crucify-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/abolish-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/abolish-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -464,31 +464,31 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/onion-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/clarity-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/clarity-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/cubic-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cubic-6.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/specify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/specify-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/extinguish-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/extinguish-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/NA) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/opportunity-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/opportunity-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/microscopic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/microscopic-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/personify-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/personify-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/speciality-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/speciality-8.mp3) </td>
   </tr>
 </tbody>
 </table>

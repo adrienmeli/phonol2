@@ -26,21 +26,21 @@ We follow @duchet2018
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'skʌʃ.ən/ </td>
    <td style="text-align:left;"> /ˌdɪ.'skʌʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/discussion-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/discussion-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> publicity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pʌb.'lɪs.ət.i/ </td>
    <td style="text-align:left;"> /pʌb.'lɪs.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/publicity-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/publicity-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> republic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ri.'pʌb.lɪk/ </td>
    <td style="text-align:left;"> /ri.'pʌb.lɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/republic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/republic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magnify </td>
@@ -54,42 +54,42 @@ We follow @duchet2018
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'nʌr.ɪʃ/ </td>
    <td style="text-align:left;"> /'n3r ːr.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/nourish-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/nourish-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> division </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'vɪʒ.ən/ </td>
    <td style="text-align:left;"> /di.'vɪʒ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/division-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/division-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> capacity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kə.'pæs.ət.i/ </td>
    <td style="text-align:left;"> /kə.'pæs.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/capacity-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/capacity-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> terrific </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /tə.'rɪf.ɪk/ </td>
    <td style="text-align:left;"> /tə.'rɪf.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/terrific-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/terrific-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crucify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kruːs.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'kruːs.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/crucify-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crucify-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> abolish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'bɒl.ɪʃ/ </td>
    <td style="text-align:left;"> /ə.'bɑːl.ˌɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/abolish-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/abolish-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -128,28 +128,28 @@ The primary stress is located on the syllable preceding the suffix.
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'klær.ət.i/ </td>
    <td style="text-align:left;"> /'kler.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/clarity-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/clarity-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cubic </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kjuːb.ɪk/ </td>
    <td style="text-align:left;"> /'kjuːb.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/cubic-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cubic-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> specify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'spes.ə.faɪ/ </td>
    <td style="text-align:left;"> /'spes.ə.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/specify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/specify-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> extinguish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪk.'stɪŋ.gwɪʃ/ </td>
    <td style="text-align:left;"> /ɪk.'stɪŋ.gwɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/extinguish-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/extinguish-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Spaniard </td>
@@ -163,28 +163,28 @@ The primary stress is located on the syllable preceding the suffix.
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌɒp.ə.'tjuːn.ət.i/ </td>
    <td style="text-align:left;"> /ˌɑːp.ə.'tjuːn.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/opportunity-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/opportunity-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> microscopic </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌmaɪk.rə.'skɒp.ɪk/ </td>
    <td style="text-align:left;"> /ˌmaɪk.rə.'skɑːp.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/microscopic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/microscopic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> personify </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'sɒn.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /pə.'sɑːn.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/personify-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/personify-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> speciality </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌspeʃ.i.'æl.ət.i/ </td>
    <td style="text-align:left;"> /ˌspeʃ.i.'æl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/speciality-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/speciality-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -211,7 +211,7 @@ What rules regarding secondary stress can be infered from the following examples
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kær.əkt.ə/ </td>
    <td style="text-align:left;"> /'ker.əkt.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/character-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/character-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> characteristic </td>
@@ -225,42 +225,42 @@ What rules regarding secondary stress can be infered from the following examples
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sɪv.ə.laɪz/ </td>
    <td style="text-align:left;"> /'sɪv.ə.ˌlaɪz/ </td>
-   <td style="text-align:left;"> ![](sounds/civilize-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/civilize-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> civilization </td>
    <td style="text-align:left;"> /20010/ </td>
    <td style="text-align:left;"> /ˌsɪv.əl.aɪ.'zeɪʃ.ən/ </td>
    <td style="text-align:left;"> /ˌsɪv.əl.aɪ.'zeɪʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/civilization-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/civilization-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> accept </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ək.'sept/ </td>
    <td style="text-align:left;"> /ək.'sept/ </td>
-   <td style="text-align:left;"> ![](sounds/accept-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/accept-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> acceptation </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌæks.ep.'teɪʃ.ən/ </td>
    <td style="text-align:left;"> acceptation </td>
-   <td style="text-align:left;"> ![](sounds/acceptation-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/acceptation-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> imagine </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪ.'mædʒ.ɪn/ </td>
    <td style="text-align:left;"> /ˌɪ.'mædʒ.ɪn/ </td>
-   <td style="text-align:left;"> ![](sounds/imagine-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/imagine-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> imagination </td>
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ɪ.ˌmædʒ.ɪ.'neɪʃ.ən/ </td>
    <td style="text-align:left;"> /ˌæ.ˌmædʒ.ɪ.'neɪʃ.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/imagination-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/imagination-10.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -329,14 +329,14 @@ Observez les mots suivants et essayez de formaliser la règle d'accentuation des
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɪ.'nɪʃ.əl/ </td>
    <td style="text-align:left;"> /ˌɪ.'nɪʃ.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/initial-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/initial-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> racial </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'reɪʃ.əl/ </td>
    <td style="text-align:left;"> /'reɪʃ.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/racial-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/racial-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> delicious </td>
@@ -350,35 +350,35 @@ Observez les mots suivants et essayez de formaliser la règle d'accentuation des
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /vɪk.'tɔːr.i.əs/ </td>
    <td style="text-align:left;"> /vɪk.'tɔːr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/victorious-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/victorious-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> deciduous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /di.'sɪd.ju.əs/ </td>
    <td style="text-align:left;"> /di.'sɪd.ju.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/deciduous-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deciduous-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ingenuous </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'dʒen.ju.əs/ </td>
    <td style="text-align:left;"> /ˌɪn.'dʒen.ju.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/ingenuous-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ingenuous-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> habitual </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /hə.'bɪtʃ.u.əl/ </td>
    <td style="text-align:left;"> /hə.'bɪtʃ.u.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/habitual-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/habitual-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gradual </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'grædʒ.u.əl/ </td>
    <td style="text-align:left;"> /'grædʒ.u.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/gradual-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/gradual-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -474,10 +474,10 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/trivial-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/trivial-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/radian-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/radian-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/NA) </td>
@@ -486,19 +486,19 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/phonetician-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/continuous-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/continuous-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/custodial-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/custodial-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/appreciate-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/appreciate-9.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/familiar-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/familiar-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/gracious-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/gracious-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/influential-6.mp3) </td>
@@ -516,16 +516,16 @@ Listen to the following words and transcribe them:
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> ![](sounds/diachronic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/diachronic-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/insinuate-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/insinuate-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/casual-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/casual-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/irradiate-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/irradiate-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/tactician-7.mp3) </td>
@@ -534,16 +534,16 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/antiquarian-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/fallacious-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fallacious-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/electrician-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/electrician-10.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/editorial-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/editorial-6.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/mendacious-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mendacious-01.mp3) </td>
   </tr>
 </tbody>
 </table>

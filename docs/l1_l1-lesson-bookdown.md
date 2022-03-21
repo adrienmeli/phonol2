@@ -78,31 +78,31 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/watch-2.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/chat-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/chat-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/hate-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hate-3.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/body-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/body-9.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/these-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/these-1.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/window-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/window-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/NA) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/pink-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pink-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/mountain-5.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/table-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/table-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/NA) </td>
@@ -111,25 +111,25 @@ Listen to the following words and transcribe them:
    <td style="text-align:left;"> ![](sounds/push-7.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/yummy-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/yummy-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/thug-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thug-4.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/swing-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/swing-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/fought-01.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/shine-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/shine-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/jar-8.mp3) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> ![](sounds/look-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/look-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ![](sounds/NA) </td>
