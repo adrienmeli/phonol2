@@ -163,4 +163,10 @@ weakening
 personal-pronouns
 possessive-articles
 weak-forms-and-contractions-articles-and-quantifiers
+lesson-n10-1
+warmup-1
+weak-forms-and-contractions-articles-and-quantifiers-1
+weakening-prepositions
+auxiliary-be
+auxiliary-have
 références

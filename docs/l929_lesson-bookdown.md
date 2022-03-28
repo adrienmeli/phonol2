@@ -21,14 +21,14 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'mɪl.i.ə/ </td>
    <td style="text-align:left;"> familiar </td>
-   <td style="text-align:left;"> ![](sounds/familiar-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/familiar-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thaw </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θɔː/ </td>
    <td style="text-align:left;"> /θɔː/ </td>
-   <td style="text-align:left;"> ![](sounds/thaw-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thaw-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Peruvian </td>
@@ -42,7 +42,7 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kɒf/ </td>
    <td style="text-align:left;"> /kɑːf/ </td>
-   <td style="text-align:left;"> ![](sounds/cough-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cough-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> changing </td>
@@ -56,7 +56,7 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /felt/ </td>
    <td style="text-align:left;"> /felt/ </td>
-   <td style="text-align:left;"> ![](sounds/felt-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/felt-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> terrific </td>
@@ -77,7 +77,7 @@
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fjʊər.i.əs/ </td>
    <td style="text-align:left;"> /'fjʊr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/furious-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/furious-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lavatorial </td>
