@@ -20,42 +20,42 @@
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkɒn.tju.'miːl.i.əs/ </td>
    <td style="text-align:left;"> contumelious </td>
-   <td style="text-align:left;"> ![](sounds/contumelious-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/contumelious-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> periodic </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌpɪər.i.'ɒd.ɪk/ </td>
    <td style="text-align:left;"> /ˌpɪr.i.'ɑːd.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/periodic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/periodic-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> counterfactual </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌkaʊnt.ə.'fæk.tʃu.əl/ </td>
    <td style="text-align:left;"> counterfactual </td>
-   <td style="text-align:left;"> ![](sounds/counterfactual-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/counterfactual-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> subterranean </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌsʌb.tə.'reɪn.i.ən/ </td>
    <td style="text-align:left;"> /sʌb.tə.'reɪn.i.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/subterranean-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/subterranean-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mediocrity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌmiːd.i.'ɒk.rət.i/ </td>
    <td style="text-align:left;"> /ˌmiːd.i.'ɑːk.rət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/mediocrity-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mediocrity-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> vitriolic </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌvɪtr.i.'ɒl.ɪk/ </td>
    <td style="text-align:left;"> /ˌvɪtr.i.'ɑːl.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/vitriolic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vitriolic-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> humidify </td>
@@ -69,7 +69,7 @@
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌæk.ri.'məʊn.i.əs/ </td>
    <td style="text-align:left;"> /ˌæk.ri.'moʊn.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/acrimonious-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/acrimonious-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> senatorial </td>

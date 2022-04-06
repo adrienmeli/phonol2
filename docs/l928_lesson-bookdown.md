@@ -21,28 +21,28 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /sə.'saɪ.ət.i/ </td>
    <td style="text-align:left;"> /sə.'saɪ.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/society-11.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/society-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hypochondriac </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌhaɪp.əʊ.'kɒndr.i.æk/ </td>
    <td style="text-align:left;"> /ˌhaɪp.əʊ.'kɑːndr.i.æk/ </td>
-   <td style="text-align:left;"> ![](sounds/hypochondriac-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/hypochondriac-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> soldier </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'səʊldʒ.ə/ </td>
    <td style="text-align:left;"> /'soʊldʒ.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/soldier-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/soldier-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> official </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'fɪʃ.əl/ </td>
    <td style="text-align:left;"> /ə.'fɪʃ.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/official-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/official-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> authority </td>
@@ -56,35 +56,35 @@
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ver.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ver.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/verify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/verify-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> nationality </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌnæʃ.ə.'næl.ət.i/ </td>
    <td style="text-align:left;"> /ˌnæʃ.ə.'næl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/nationality-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/nationality-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> diversify </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /daɪ.'vɜːs.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /daɪ.'v3r ːs.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/diversify-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/diversify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> thematic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /θi.'mæt.ɪk/ </td>
    <td style="text-align:left;"> /θi.'mæt.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/thematic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thematic-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> notify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'nəʊt.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'noʊt.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/notify-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/notify-4.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -123,21 +123,21 @@ This can be seen within words when suffixes are added to words ending with one o
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mɜːd.ə/ </td>
    <td style="text-align:left;"> /'m3r ːd.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/murder-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/murder-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> murderer </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'mɜːd.ər.ə/ </td>
    <td style="text-align:left;"> /'m3r ːd.ər.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/murderer-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/murderer-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> star </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /stɑː/ </td>
    <td style="text-align:left;"> /stɑːr/ </td>
-   <td style="text-align:left;"> ![](sounds/star-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/star-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> starring </td>
@@ -151,21 +151,21 @@ This can be seen within words when suffixes are added to words ending with one o
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /fɔː/ </td>
    <td style="text-align:left;"> /fɔːr/ </td>
-   <td style="text-align:left;"> ![](sounds/four-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/four-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fourish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'fɔː.rɪʃ/ </td>
    <td style="text-align:left;"> fourish </td>
-   <td style="text-align:left;"> ![](sounds/NA) </td>
+   <td style="text-align:left;"> ![](sounds/fourish-99.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> fur </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /fɜː/ </td>
    <td style="text-align:left;"> /fɜ˞ː/ </td>
-   <td style="text-align:left;"> ![](sounds/fur-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/fur-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> furry </td>
@@ -186,35 +186,35 @@ This can be seen within words when suffixes are added to words ending with one o
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'keər.ɪŋ/ </td>
    <td style="text-align:left;"> /'ker.ɪŋ/ </td>
-   <td style="text-align:left;"> ![](sounds/caring-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/caring-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> clear </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /klɪə/ </td>
    <td style="text-align:left;"> /klɪr/ </td>
-   <td style="text-align:left;"> ![](sounds/clear-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/clear-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> clearest </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'klɪər.ɪst/ </td>
    <td style="text-align:left;"> /'klɪr.ˌɪst/ </td>
-   <td style="text-align:left;"> ![](sounds/NA) </td>
+   <td style="text-align:left;"> ![](sounds/clearest-99.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> pure </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /pjʊə/ </td>
    <td style="text-align:left;"> /pjʊr/ </td>
-   <td style="text-align:left;"> ![](sounds/pure-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pure-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> purist </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'pjʊər.ɪst/ </td>
    <td style="text-align:left;"> /'pjʊr.ˌɪst/ </td>
-   <td style="text-align:left;"> ![](sounds/purist-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/purist-7.mp3) </td>
   </tr>
 </tbody>
 </table>

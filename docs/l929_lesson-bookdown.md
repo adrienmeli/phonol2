@@ -28,35 +28,35 @@
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /θɔː/ </td>
    <td style="text-align:left;"> /θɔː/ </td>
-   <td style="text-align:left;"> ![](sounds/thaw-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/thaw-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Peruvian </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'ruːv.i.ən/ </td>
    <td style="text-align:left;"> /pə.'ruːv.i.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/NA) </td>
+   <td style="text-align:left;"> ![](sounds/peruvian-99.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cough </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kɒf/ </td>
    <td style="text-align:left;"> /kɑːf/ </td>
-   <td style="text-align:left;"> ![](sounds/cough-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cough-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> changing </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'tʃeɪndʒ.ɪŋ/ </td>
    <td style="text-align:left;"> /'tʃeɪndʒ.ɪŋ/ </td>
-   <td style="text-align:left;"> ![](sounds/NA) </td>
+   <td style="text-align:left;"> ![](sounds/changing-99.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> felt </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /felt/ </td>
    <td style="text-align:left;"> /felt/ </td>
-   <td style="text-align:left;"> ![](sounds/felt-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/felt-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> terrific </td>
@@ -70,14 +70,14 @@
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌed.ɪ.'tɔːr.i.əl/ </td>
    <td style="text-align:left;"> /ˌed.ɪ.'tɔːr.i.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/editorial-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/editorial-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> furious </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'fjʊər.i.əs/ </td>
    <td style="text-align:left;"> /'fjʊr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/furious-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/furious-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lavatorial </td>

@@ -99,21 +99,21 @@
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pær.ət.i/ </td>
    <td style="text-align:left;"> /'per.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/parity-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/parity-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> felonious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /fə.'ləʊn.i.əs/ </td>
    <td style="text-align:left;"> /fə.'loʊn.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/felonious-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/felonious-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reality </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ri.'æl.ət.i/ </td>
    <td style="text-align:left;"> /ri.'æl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/reality-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reality-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mercuric </td>
@@ -127,7 +127,7 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'sɪd.ət.i/ </td>
    <td style="text-align:left;"> /ə.'sɪd.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/acidity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/acidity-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> conic </td>
@@ -141,14 +141,14 @@
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'paɪ.əs/ </td>
    <td style="text-align:left;"> /'paɪ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/pious-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pious-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> chromatic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /krə.'mæt.ɪk/ </td>
    <td style="text-align:left;"> chromatic </td>
-   <td style="text-align:left;"> ![](sounds/chromatic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/chromatic-7.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -181,21 +181,21 @@ Try to formulate the rule of the suffix <-ity>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /məʊ.'bɪl.ət.i/ </td>
    <td style="text-align:left;"> /məʊ.'bɪl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/mobility-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mobility-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> nudity </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'njuːd.ət.i/ </td>
    <td style="text-align:left;"> /'njuːd.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/nudity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/nudity-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> popularity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌpɒp.ju.'lær.ət.i/ </td>
    <td style="text-align:left;"> /ˌpɑːp.ju.'ler.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/popularity-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/popularity-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prosperity </td>
@@ -223,28 +223,28 @@ Try to formulate the rule of the suffix <-ity>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pjʊər.ət.i/ </td>
    <td style="text-align:left;"> /'pjʊr.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/purity-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/purity-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> university </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌjuːn.ɪ.'vɜːs.ət.i/ </td>
    <td style="text-align:left;"> /ˌjuːn.ɪ.'v3r ːs.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/university-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/university-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> infirmity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'fɜːm.ət.i/ </td>
    <td style="text-align:left;"> /ˌɪn.'f3r ːm.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/infirmity-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/infirmity-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> taciturnity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌtæs.ɪ.'tɜːn.ət.i/ </td>
    <td style="text-align:left;"> taciturnity </td>
-   <td style="text-align:left;"> ![](sounds/taciturnity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/taciturnity-3.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -272,28 +272,28 @@ Try to formulate the rule of the suffix <-ity>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /əb.'siːn/ </td>
    <td style="text-align:left;"> /əb.'siːn/ </td>
-   <td style="text-align:left;"> ![](sounds/obscene-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/obscene-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mobile </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'məʊb.aɪəl/ </td>
    <td style="text-align:left;"> /'moʊb.aɪəl/ </td>
-   <td style="text-align:left;"> ![](sounds/mobile-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mobile-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mediocre </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌmiːd.i.'əʊk.ə/ </td>
    <td style="text-align:left;"> /ˌmiːd.i.'oʊk.ər/ </td>
-   <td style="text-align:left;"> ![](sounds/mediocre-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mediocre-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crude </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /kruːd/ </td>
    <td style="text-align:left;"> /kruːd/ </td>
-   <td style="text-align:left;"> ![](sounds/crude-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crude-5.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -314,35 +314,35 @@ Try to formulate the rule of the suffix <-ity>
    <td style="text-align:left;"> /020100/ </td>
    <td style="text-align:left;"> /ə.ˌrɪdʒ.ə.'næl.ət.i/ </td>
    <td style="text-align:left;"> /ə.ˌrɪdʒ.ə.'næl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/originality-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/originality-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> obscenity </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /əb.'sen.ət.i/ </td>
    <td style="text-align:left;"> /əb.'sen.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/obscenity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/obscenity-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mobility </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /məʊ.'bɪl.ət.i/ </td>
    <td style="text-align:left;"> /məʊ.'bɪl.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/mobility-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mobility-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mediocrity </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌmiːd.i.'ɒk.rət.i/ </td>
    <td style="text-align:left;"> /ˌmiːd.i.'ɑːk.rət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/mediocrity-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/mediocrity-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> crudity </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kruːd.ət.i/ </td>
    <td style="text-align:left;"> crudity </td>
-   <td style="text-align:left;"> ![](sounds/crudity-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/crudity-01.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -377,14 +377,14 @@ The vowel of the stressed syllable is lax if it is not:
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'reər.ət.i/ </td>
    <td style="text-align:left;"> /'rer.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/rarity-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/rarity-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> scarcity </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'skeəs.ət.i/ </td>
    <td style="text-align:left;"> /'skes.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/scarcity-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/scarcity-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> amenities </td>
@@ -398,7 +398,7 @@ The vowel of the stressed syllable is lax if it is not:
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'prəʊb.ət.i/ </td>
    <td style="text-align:left;"> /'proʊb.ət.i/ </td>
-   <td style="text-align:left;"> ![](sounds/probity-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/probity-7.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -426,28 +426,28 @@ The vowel of the stressed syllable is lax if it is not:
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pæs.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'pæs.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/pacify-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pacify-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> edify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ed.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ed.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/edify-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/edify-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> solidify </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /sə.'lɪd.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /sə.'lɪd.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/solidify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/solidify-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> modify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'mɒd.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'mɑːd.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/modify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/modify-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> unify </td>
@@ -461,35 +461,35 @@ The vowel of the stressed syllable is lax if it is not:
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'klær.ə.faɪ/ </td>
    <td style="text-align:left;"> /'kler.ə.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/clarify-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/clarify-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> verify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ver.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ver.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/verify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/verify-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> glorify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'glɔːr.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/glorify-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/glorify-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> horrify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'hɒr.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'hɔːr.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/horrify-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/horrify-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> purify </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pjʊər.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'pjʊr.ɪ.ˌfaɪ/ </td>
-   <td style="text-align:left;"> ![](sounds/purify-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/purify-7.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -536,7 +536,7 @@ Can you formulate a hypothesis explaining why "codify" has a tense vowel in its 
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'væn.ɪʃ/ </td>
    <td style="text-align:left;"> /'væn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/vanish-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/vanish-9.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> blemish </td>
@@ -550,42 +550,42 @@ Can you formulate a hypothesis explaining why "codify" has a tense vowel in its 
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'mɪn.ɪʃ/ </td>
    <td style="text-align:left;"> /di.'mɪn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/diminish-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/diminish-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> polish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'pɒl.ɪʃ/ </td>
    <td style="text-align:left;"> /'pɑːl.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/polish-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/polish-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> demolish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'mɒl.ɪʃ/ </td>
    <td style="text-align:left;"> /di.'mɑːl.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/demolish-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/demolish-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> astonish </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ə.'stɒn.ɪʃ/ </td>
    <td style="text-align:left;"> /ə.'stɑːn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/astonish-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/astonish-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> punish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'pʌn.ɪʃ/ </td>
    <td style="text-align:left;"> /'pʌn.ɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/punish-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/punish-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cherish </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'tʃer.ɪʃ/ </td>
    <td style="text-align:left;"> /'tʃer.ˌɪʃ/ </td>
-   <td style="text-align:left;"> ![](sounds/cherish-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cherish-5.mp3) </td>
   </tr>
 </tbody>
 </table>

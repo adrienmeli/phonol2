@@ -51,14 +51,14 @@ dont la prononciation est relâchée.
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'diːv.i.ənt/ </td>
    <td style="text-align:left;"> /'diːv.i.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/deviant-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/deviant-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> reptilian </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /rep.'tɪl.i.ən/ </td>
    <td style="text-align:left;"> reptilian </td>
-   <td style="text-align:left;"> ![](sounds/reptilian-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/reptilian-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> custodian </td>
@@ -72,14 +72,14 @@ dont la prononciation est relâchée.
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'ruːv.i.ən/ </td>
    <td style="text-align:left;"> /pə.'ruːv.i.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/NA) </td>
+   <td style="text-align:left;"> ![](sounds/peruvian-99.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> variant </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'veər.i.ənt/ </td>
    <td style="text-align:left;"> /'ver.i.ənt/ </td>
-   <td style="text-align:left;"> ![](sounds/variant-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/variant-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Nigerian </td>
@@ -135,70 +135,70 @@ Trouvez des mots en <-ic> et analysez la qualité de la voyelle accentuée.
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /trɔː.'mæt.ɪk/ </td>
    <td style="text-align:left;"> /trɔː.'mæt.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/traumatic-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/traumatic-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> systemic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /si.'stiːm.ɪk/ </td>
    <td style="text-align:left;"> /ˌsɪ.'stem.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/systemic-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/systemic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> specific </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /spə.'sɪf.ɪk/ </td>
    <td style="text-align:left;"> /spə.'sɪf.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/specific-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/specific-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prosodic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /prə.'sɒd.ɪk/ </td>
    <td style="text-align:left;"> prosodic </td>
-   <td style="text-align:left;"> ![](sounds/prosodic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prosodic-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cubic </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kjuːb.ɪk/ </td>
    <td style="text-align:left;"> /'kjuːb.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/cubic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cubic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> barbaric </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /bɑː.'bær.ɪk/ </td>
    <td style="text-align:left;"> /bɑː.'bær.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/barbaric-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/barbaric-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> generic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /dʒə.'ner.ɪk/ </td>
    <td style="text-align:left;"> /dʒə.'ner.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/generic-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/generic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> satiric </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /sə.'tɪr.ɪk/ </td>
    <td style="text-align:left;"> /sə.'tɪr.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/satiric-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/satiric-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> historic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /hi.'stɒr.ɪk/ </td>
    <td style="text-align:left;"> /ˌhɪ.'stɔːr.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/historic-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/historic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> telluric </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /te.'lʊər.ɪk/ </td>
    <td style="text-align:left;"> telluric </td>
-   <td style="text-align:left;"> ![](sounds/telluric-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/telluric-2.mp3) </td>
   </tr>
 </tbody>
 </table>

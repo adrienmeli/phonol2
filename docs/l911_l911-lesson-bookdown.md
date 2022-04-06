@@ -24,7 +24,7 @@
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'drɑːm.ə/ </td>
    <td style="text-align:left;"> /'drɑːm.ə/ </td>
-   <td style="text-align:left;"> ![](sounds/drama-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/drama-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> icon </td>
@@ -38,63 +38,63 @@
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'prɒf.ɪt/ </td>
    <td style="text-align:left;"> /'prɑːf.ɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/prophet-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prophet-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> episode </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ep.ɪ.səʊd/ </td>
    <td style="text-align:left;"> /'ep.ɪ.ˌsoʊd/ </td>
-   <td style="text-align:left;"> ![](sounds/episode-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/episode-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> gene </td>
    <td style="text-align:left;"> /1/ </td>
    <td style="text-align:left;"> /dʒiːn/ </td>
    <td style="text-align:left;"> /dʒiːn/ </td>
-   <td style="text-align:left;"> ![](sounds/gene-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/gene-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> analysis </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'næl.əs.ɪs/ </td>
    <td style="text-align:left;"> /ə.'næl.əs.ɪs/ </td>
-   <td style="text-align:left;"> ![](sounds/analysis-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/analysis-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> volcano </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /vɒl.'keɪn.əʊ/ </td>
    <td style="text-align:left;"> /vɒl.'keɪn.əʊ/ </td>
-   <td style="text-align:left;"> ![](sounds/volcano-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/volcano-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> dramatic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /drə.'mæt.ɪk/ </td>
    <td style="text-align:left;"> /drə.'mæt.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/dramatic-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/dramatic-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prophetic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /prəʊ.'fet.ɪk/ </td>
    <td style="text-align:left;"> /prəʊ.'fet.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/prophetic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prophetic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> episodic </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌep.ɪ.'sɒd.ɪk/ </td>
    <td style="text-align:left;"> /ˌep.ɪ.'sɑːd.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/episodic-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/episodic-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prolific </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /prəʊ.'lɪf.ɪk/ </td>
    <td style="text-align:left;"> /prəʊ.'lɪf.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/prolific-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/prolific-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> scorbutic </td>
@@ -108,14 +108,14 @@
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /vɒl.'kæn.ɪk/ </td>
    <td style="text-align:left;"> /vɒl.'kæn.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/volcanic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/volcanic-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> genetic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /dʒə.'net.ɪk/ </td>
    <td style="text-align:left;"> /dʒə.'net.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/genetic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/genetic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> analytic </td>
@@ -129,14 +129,14 @@
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /aɪ.'kɒn.ɪk/ </td>
    <td style="text-align:left;"> iconic </td>
-   <td style="text-align:left;"> ![](sounds/iconic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/iconic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> music </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mjuːz.ɪk/ </td>
    <td style="text-align:left;"> /'mjuːz.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/music-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/music-7.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -265,35 +265,35 @@
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /frə.'net.ɪk/ </td>
    <td style="text-align:left;"> /frə.'net.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/frenetic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/frenetic-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> angelic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /æn.'dʒel.ɪk/ </td>
    <td style="text-align:left;"> /ˌæn.'dʒel.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/angelic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/angelic-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> meritorious </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌmer.ɪ.'tɔːr.i.əs/ </td>
    <td style="text-align:left;"> /ˌmer.ɪ.'tɔːr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/meritorious-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/meritorious-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> variate </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'veər.i.ət/ </td>
    <td style="text-align:left;"> variate </td>
-   <td style="text-align:left;"> ![](sounds/variate-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/variate-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> menial </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'miːn.i.əl/ </td>
    <td style="text-align:left;"> /'miːn.i.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/menial-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/menial-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> industrious </td>
@@ -307,28 +307,28 @@
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kɒm.ɪk/ </td>
    <td style="text-align:left;"> /'kɑːm.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/comic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/comic-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> conciliate </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kən.'sɪl.i.eɪt/ </td>
    <td style="text-align:left;"> conciliate </td>
-   <td style="text-align:left;"> ![](sounds/conciliate-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/conciliate-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> melodious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'ləʊd.i.əs/ </td>
    <td style="text-align:left;"> /mə.'loʊd.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/melodious-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/melodious-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> melancholic </td>
    <td style="text-align:left;"> /2010/ </td>
    <td style="text-align:left;"> /ˌmel.ən.'kɒl.ɪk/ </td>
    <td style="text-align:left;"> /ˌmel.ən.'kɑːl.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/melancholic-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/melancholic-2.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -358,63 +358,63 @@
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'des.tri.ən/ </td>
    <td style="text-align:left;"> /pə.'des.tri.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/pedestrian-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/pedestrian-10.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> meridian </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'rɪd.i.ən/ </td>
    <td style="text-align:left;"> /mə.'rɪd.i.ən/ </td>
-   <td style="text-align:left;"> ![](sounds/meridian-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/meridian-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> victorious </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /vɪk.'tɔːr.i.əs/ </td>
    <td style="text-align:left;"> /vɪk.'tɔːr.i.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/victorious-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/victorious-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cautious </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kɔːʃ.əs/ </td>
    <td style="text-align:left;"> /'kɔːʃ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/cautious-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/cautious-3.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> associate </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'səʊʃ.i.eɪt/ </td>
    <td style="text-align:left;"> /ə.'soʊʃ.i.eɪt/ </td>
-   <td style="text-align:left;"> ![](sounds/associate-9.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/associate-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> premium </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'priːm.i.əm/ </td>
    <td style="text-align:left;"> /'priːm.i.əm/ </td>
-   <td style="text-align:left;"> ![](sounds/premium-8.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/premium-6.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> grammarian </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /grə.'meər.i.ən/ </td>
    <td style="text-align:left;"> grammarian </td>
-   <td style="text-align:left;"> ![](sounds/grammarian-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/grammarian-1.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> residual </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ri.'zɪd.ju.əl/ </td>
    <td style="text-align:left;"> /ri.'zɪd.ju.əl/ </td>
-   <td style="text-align:left;"> ![](sounds/residual-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/residual-5.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ferocious </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /fə.'rəʊʃ.əs/ </td>
    <td style="text-align:left;"> /fə.'roʊʃ.əs/ </td>
-   <td style="text-align:left;"> ![](sounds/ferocious-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/ferocious-4.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -466,28 +466,28 @@ Dans quelle mesure les mots suivants sont-ils exceptionnels ?
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'fɒn.ɪk/ </td>
    <td style="text-align:left;"> /'fɑːn.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/phonic-2.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/phonic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> encyclopedic </td>
    <td style="text-align:left;"> /02010/ </td>
    <td style="text-align:left;"> /ɪn.ˌsaɪk.lə.'piːd.ɪk/ </td>
    <td style="text-align:left;"> /ɪn.ˌsaɪk.lə.'piːd.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/encyclopedic-10.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/encyclopedic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> phonemic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /fəʊ.'niːm.ɪk/ </td>
    <td style="text-align:left;"> phonemic </td>
-   <td style="text-align:left;"> ![](sounds/phonemic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/phonemic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> echoic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /e.'kəʊ.ɪk/ </td>
    <td style="text-align:left;"> echoic </td>
-   <td style="text-align:left;"> ![](sounds/echoic-6.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/echoic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> stoic </td>
@@ -501,14 +501,14 @@ Dans quelle mesure les mots suivants sont-ils exceptionnels ?
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /hə.'rəʊ.ɪk/ </td>
    <td style="text-align:left;"> /hə.'roʊ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/heroic-7.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/heroic-01.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> archaic </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /ɑː.'keɪ.ɪk/ </td>
    <td style="text-align:left;"> /ɑː.'keɪ.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/archaic-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/archaic-8.mp3) </td>
   </tr>
 </tbody>
 </table>
@@ -531,35 +531,35 @@ Et ceux-là ?
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'kæθ.lɪk/ </td>
    <td style="text-align:left;"> /'kæθ.lɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/catholic-3.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/catholic-8.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> heretic </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'her.ə.tɪk/ </td>
    <td style="text-align:left;"> /'her.ə.tɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/heretic-5.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/heretic-2.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> lunatic </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'luːn.ə.tɪk/ </td>
    <td style="text-align:left;"> /'luːn.ə.ˌtɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/lunatic-01.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/lunatic-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> politic </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pɒl.ə.tɪk/ </td>
    <td style="text-align:left;"> /'pɑːl.ə.ˌtɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/politic-4.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/politic-7.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> arsenic </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ɑːs.ən.ɪk/ </td>
    <td style="text-align:left;"> /'ɑːs.ən.ɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/arsenic-1.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arsenic-4.mp3) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> rhetoric </td>
@@ -573,7 +573,7 @@ Et ceux-là ?
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'rɪθ.mə.tɪk/ </td>
    <td style="text-align:left;"> /ˌɪ.ˌrɪθ.'me.tɪk/ </td>
-   <td style="text-align:left;"> ![](sounds/arithmetic-13.mp3) </td>
+   <td style="text-align:left;"> ![](sounds/arithmetic-14.mp3) </td>
   </tr>
 </tbody>
 </table>

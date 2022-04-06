@@ -169,4 +169,15 @@ weak-forms-and-contractions-articles-and-quantifiers-1
 weakening-prepositions
 auxiliary-be
 auxiliary-have
+lesson-n10-2
+warmup-2
+back-to-connected-speech
+strong-and-weak-forms
+auxiliary-do
+conjunctions
+intonation
+aperçu-des-constituants-de-lintonation
+les-unités-intonatives-tonality
+la-détermination-du-noyau-tonicity
+ton-par-défaut-2-généralisations-utiles
 références
